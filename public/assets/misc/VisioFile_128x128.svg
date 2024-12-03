@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.VisioFilex0{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.VisioFilex1{fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<path class="VisioFilex0" d="M16.4,24.8l51.9-11.2c2.6-0.6,5.1,1.4,5.1,4.1v92.7c0,2.6-2.4,4.6-5,4.1l-51.8-9.4c-2-0.4-3.4-2.1-3.4-4.1V28.9
+	C13.1,26.9,14.5,25.2,16.4,24.8z"/>
+<path class="VisioFilex0" d="M110,103.4H73.4V24.9H110c2.7,0,4.8,2.2,4.8,4.8v68.8C114.9,101.2,112.7,103.4,110,103.4z"/>
+<polyline class="VisioFilex0" points="95.8,59.1 95.8,79.8 85,79.8 "/>
+<line class="VisioFilex0" x1="84.8" y1="48.2" x2="74.2" y2="48.2"/>
+<polyline class="VisioFilex1" points="30.8,55.8 42.3,84 44,84 55.8,55.8 "/>
+<rect x="88" y="40.4" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -5.988 81.8436)" class="VisioFilex0" width="15.5" height="15.5"/>
+<rect x="71.8" y="74.4" transform="matrix(3.174889e-11 -1 1 3.174889e-11 -0.3606 159.3973)" class="VisioFilex0" width="15.5" height="11"/>
+</svg>

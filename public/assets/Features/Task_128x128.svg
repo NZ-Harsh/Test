@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.Tasksx0{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.Tasksx1{fill:none;stroke:#010101;stroke-width:3;stroke-miterlimit:10;}
+	.Tasksx2{fill:#010101;stroke:#010101;stroke-miterlimit:10;}
+	.Tasksx3{fill:#010101;}
+	.Tasksx4{fill:#010101;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.Tasksx5{fill:none;stroke:#010101;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="Tasksx0" d="M112.96,124H15.04c-5.64,0-10.21-4.57-10.21-10.21V14.21C4.82,8.57,9.4,4,15.04,4h97.93
+		c5.64,0,10.21,4.57,10.21,10.21v99.57C123.18,119.43,118.6,124,112.96,124z"/>
+	<path class="Tasksx0" d="M68.07,106.27h-34.2c-3.22,0-5.83-2.61-5.83-5.83V26.53c0-3.22,2.61-5.83,5.83-5.83H93.1
+		c3.22,0,5.83,2.61,5.83,5.83v50.72"/>
+	<polyline class="Tasksx0" points="74.5,106.27 74.61,106.27 98.93,106.27 98.93,90.56 	"/>
+	<polyline class="Tasksx0" points="91.93,82.41 74.61,82.41 74.61,106.27 98.93,106.27 98.93,90.56 	"/>
+	<line class="Tasksx0" x1="40.43" y1="38.37" x2="76.91" y2="38.37"/>
+	<line class="Tasksx0" x1="40.43" y1="50.98" x2="82.18" y2="50.98"/>
+	<line class="Tasksx0" x1="40.43" y1="63.37" x2="86.77" y2="63.37"/>
+	<polyline class="Tasksx0" points="78.28,92.97 85.17,98.93 97.78,85.17 	"/>
+</g>
+</svg>

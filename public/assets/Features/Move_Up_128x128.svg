@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.MoveUpx0{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.MoveUpx1{fill:none;stroke:#010101;stroke-width:3;stroke-miterlimit:10;}
+	.MoveUpx2{fill:#010101;stroke:#010101;stroke-miterlimit:10;}
+	.MoveUpx3{fill:#010101;}
+	.MoveUpx4{fill:#010101;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.MoveUpx5{fill:none;stroke:#010101;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<line class="MoveUpx0" x1="64.8" y1="58.59" x2="64.8" y2="92.64"/>
+		<polyline class="MoveUpx0" points="51.96,69.37 64.8,58.59 76.04,68.88 		"/>
+	</g>
+	<path class="MoveUpx0" d="M7.99,4h112.02c2.2,0,3.99,1.79,3.99,3.99v112.02c0,2.2-1.79,3.99-3.99,3.99H7.99c-2.2,0-3.99-1.79-3.99-3.99
+		V7.99C4,5.79,5.79,4,7.99,4z"/>
+	<path class="MoveUpx0" d="M22.25,20.02h83.5c1.77,0,3.21,1.44,3.21,3.21v24.64c0,1.77-1.44,3.21-3.21,3.21h-83.5
+		c-1.77,0-3.21-1.44-3.21-3.21V23.23C19.04,21.46,20.48,20.02,22.25,20.02z"/>
+</g>
+</svg>

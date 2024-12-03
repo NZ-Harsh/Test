@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.DeviceCoolingx0{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DeviceCoolingx1{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.DeviceCoolingx2{fill:#F89A1F;stroke:#F89A1F;stroke-miterlimit:10;}
+	.DeviceCoolingx3{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.DeviceCoolingx4{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.DeviceCoolingx5{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DeviceCoolingx6{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DeviceCoolingx7{fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DeviceCoolingx8{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.DeviceCoolingx9{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.DeviceCoolingx10{fill:#F9BB16;}
+	.DeviceCoolingx11{fill:#EA4435;}
+	.DeviceCoolingx12{fill:#2FA952;}
+	.DeviceCoolingx13{fill:#547DBF;}
+	.DeviceCoolingx14{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DeviceCoolingx15{stroke:#000000;stroke-miterlimit:10;}
+	.DeviceCoolingx16{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.DeviceCoolingx17{fill:none;stroke:#020202;stroke-width:5;stroke-miterlimit:10;}
+	.DeviceCoolingx18{fill:none;stroke:#020202;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DeviceCoolingx19{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<rect x="28.55" y="11.98" class="DeviceCoolingx16" width="70.91" height="20.83"/>
+	<rect x="28.55" y="41.39" class="DeviceCoolingx16" width="70.91" height="18.67"/>
+	<rect x="19.99" y="4" class="DeviceCoolingx16" width="88.02" height="120"/>
+	<g>
+		<g>
+			<circle class="DeviceCoolingx19" cx="64" cy="89.61" r="4.83"/>
+			<g>
+				<line class="DeviceCoolingx19" x1="63.75" y1="108.45" x2="63.75" y2="94.45"/>
+				<polyline class="DeviceCoolingx19" points="69.07,112.49 64.25,108.45 63.75,108.45 58.93,112.49 				"/>
+				<polyline class="DeviceCoolingx19" points="69.07,106.49 64.25,102.45 63.75,102.45 58.93,106.49 				"/>
+			</g>
+			<g>
+				<line class="DeviceCoolingx19" x1="64.25" y1="70.77" x2="64.25" y2="84.77"/>
+				<polyline class="DeviceCoolingx19" points="58.93,66.74 63.75,70.77 64.25,70.77 69.07,66.74 				"/>
+				<polyline class="DeviceCoolingx19" points="58.93,72.74 63.75,76.77 64.25,76.77 69.07,72.74 				"/>
+			</g>
+		</g>
+		<g>
+			<circle class="DeviceCoolingx19" cx="64" cy="89.61" r="4.83"/>
+			<g>
+				<line class="DeviceCoolingx19" x1="82.84" y1="89.86" x2="68.84" y2="89.86"/>
+				<polyline class="DeviceCoolingx19" points="86.88,84.54 82.84,89.36 82.84,89.86 86.88,94.69 				"/>
+				<polyline class="DeviceCoolingx19" points="80.88,84.54 76.84,89.36 76.84,89.86 80.88,94.69 				"/>
+			</g>
+			<g>
+				<line class="DeviceCoolingx19" x1="45.16" y1="89.36" x2="59.16" y2="89.36"/>
+				<polyline class="DeviceCoolingx19" points="41.12,94.69 45.16,89.86 45.16,89.36 41.12,84.54 				"/>
+				<polyline class="DeviceCoolingx19" points="47.12,94.69 51.16,89.86 51.16,89.36 47.12,84.54 				"/>
+			</g>
+		</g>
+		<g>
+			<circle class="DeviceCoolingx19" cx="64" cy="89.61" r="4.83"/>
+			<g>
+				<line class="DeviceCoolingx19" x1="77.15" y1="103.11" x2="67.25" y2="93.21"/>
+				<polyline class="DeviceCoolingx19" points="83.76,102.2 77.5,102.76 77.15,103.11 76.59,109.38 				"/>
+				<polyline class="DeviceCoolingx19" points="79.52,97.96 73.26,98.52 72.9,98.87 72.34,105.13 				"/>
+			</g>
+			<g>
+				<line class="DeviceCoolingx19" x1="50.85" y1="76.11" x2="60.75" y2="86.01"/>
+				<polyline class="DeviceCoolingx19" points="44.24,77.02 50.5,76.46 50.85,76.11 51.41,69.85 				"/>
+				<polyline class="DeviceCoolingx19" points="48.48,81.27 54.74,80.71 55.1,80.36 55.66,74.09 				"/>
+			</g>
+		</g>
+		<g>
+			<circle class="DeviceCoolingx19" cx="64" cy="89.61" r="4.83"/>
+			<g>
+				<line class="DeviceCoolingx19" x1="77.5" y1="76.46" x2="67.6" y2="86.37"/>
+				<polyline class="DeviceCoolingx19" points="76.59,69.85 77.15,76.11 77.5,76.46 83.76,77.02 				"/>
+				<polyline class="DeviceCoolingx19" points="72.34,74.09 72.9,80.36 73.26,80.71 79.52,81.27 				"/>
+			</g>
+			<g>
+				<line class="DeviceCoolingx19" x1="50.5" y1="102.76" x2="60.4" y2="92.86"/>
+				<polyline class="DeviceCoolingx19" points="51.41,109.38 50.85,103.11 50.5,102.76 44.24,102.2 				"/>
+				<polyline class="DeviceCoolingx19" points="55.66,105.13 55.1,98.87 54.74,98.52 48.48,97.96 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

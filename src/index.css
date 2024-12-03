@@ -1,0 +1,1062 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  overflow: hidden;
+}
+
+.preload-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+  background-position: center;
+  margin: 0;
+  gap: 10;
+}
+
+
+.logo {
+  position: absolute;
+  top: 1rem;
+  left: 3rem;
+  cursor: pointer;
+}
+
+.logo img {
+  height: 3.5rem;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 200px !important;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-family: 'Segoe UI, sans-serif';
+  margin-top: 10px;
+  height: 69%;
+}
+
+.font-size-20 {
+  font-size: 16px;
+}
+
+.font-size-25 {
+  font-size: 16px;
+}
+
+.font-size-30 {
+  font-size: 16px;
+}
+
+.font-size-35 {
+  font-size: 16px;
+}
+
+.bg-size-100 {
+  background-size: 100%;
+}
+
+.bg-size-90 {
+  background-size: 90%;
+}
+
+.bg-size-contain {
+  background-size: contain;
+}
+
+.main-page {
+  background-color: var(--bg-color);
+  height: 100vh;
+  color: var(--font-color);
+  padding: 0;
+  overflow: hidden;
+  overflow-y: auto;
+}
+
+.button-container {
+  display: flex;
+  gap: 14px;
+  position: sticky;
+  align-items: center;
+  padding-left: 12px;
+}
+.nz-sk-search-glass-btn-box {
+  padding-right: 10px !important;
+  padding-left: 7px !important;
+}
+
+.site-name {
+  text-decoration: none;
+  padding: 0;
+  display: inline-block;
+  margin-left: 0em;
+  margin-bottom: 0;
+  cursor: default;
+  margin-top: 10px;
+  font-weight: 500;
+  font-size: 12px;
+
+}
+
+.sign-out-button {
+  text-decoration: underline;
+  cursor: pointer;
+  padding: 0;
+  display: inline-block;
+  margin-left: 0em;
+  margin-bottom: 0;
+  margin-top: 10px;
+  font-weight: 500;
+  font-size: 12px;
+
+}
+
+.tabs {
+  color: var(--font-color) !important;
+}
+
+.tab-container {
+  /* display: flex; */
+  padding-left: 7px;
+  padding-top: 7px;
+  padding: 5px;
+}
+
+.custom-tabs {
+  min-height: 26px !important;
+  padding: 0;
+  margin: 0;
+  height: 29px;
+}
+
+.tab-container .MuiTabs-flexContainer {
+  height: 30px !important;
+}
+
+  .tab-container .MuiButtonBase-root {
+    padding: 0px !important;
+    font-family: 'Segoe UI', sans-serif !important;
+    color: var(--font-color) !important;
+    font-size: 12px;
+    text-transform: none !important;
+    margin: 0px !important;
+    gap: 0 !important;
+    display: flex !important;
+    min-height: 0 !important;
+    height: 21px  !important;
+    /* min-width: 80px !important; */
+  }
+
+
+.tabs-content {
+  color: var(--font-color);
+  gap: 10;
+}
+
+.nz-searchcombo .MuiOutlinedInput-notchedOutline {
+  border-color: var(--font-color) !important;
+  min-height: 49px !important;
+  /* padding: 0px 0px 0px 10px !important;  */
+}
+
+.select-label {
+  color: var(--font-color) !important;
+  font-size: 12px !important;
+  font-family: 'Segoe UI', sans-serif !important;
+  margin-top: 2px !important;
+}
+
+.MuiButtonBase-root .Mui-selected {
+  color: var(--link-color) !important;
+}
+
+.MuiTabs-indicator {
+  display: none;
+}
+
+.select-label {
+  color: var(--font-color) !important;
+  font-size: 12px !important;
+  font-family: 'Segoe UI', sans-serif !important;
+  margin-top: 2px !important;
+}
+
+.select-input {
+  color: var(--font-color) !important;
+  font-size: 12px !important;
+  height: 41px !important;
+}
+
+.select-menu-item {
+  font-size: 12px !important;
+  font-family: 'Segoe UI', sans-serif !important;
+  color: var(--black-font) !important;
+  font-weight: 400;
+}
+
+.disabled-menu-item {
+  font-size: 12px !important;
+  font-family: 'Segoe UI', sans-serif !important;
+  color: var(--black-font) !important;
+}
+
+.select-dropdown {
+  max-height: 350px !important;
+  overflow-y: auto;
+}
+
+/* For medium-height screens */
+@media (max-height: 768px) {
+  .select-dropdown {
+    max-height: 40vh !important;
+    /* Adjust to 40% of viewport height */
+  }
+}
+
+/* For smaller-height screens */
+@media (max-height: 480px) {
+  .select-dropdown {
+    max-height: 30vh !important;
+    /* Adjust to 30% of viewport height */
+  }
+}
+
+.MuiTypography,
+.MuiFormControlLabel-label,
+.MuiInputBase-root,
+.MuiButton-root {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+
+
+.Mui-focused {
+  color: rgb(255, 255, 255) !important;
+  line-height: 2.4375em;
+  font-size: 12px;
+}
+
+.MuiInputBase-input .MuiOutlinedInput-input h1 {
+  font-size: 12px;
+}
+
+.MuiSelect-select .MuiSelect-outlined .MuiInputBase-input .MuiOutlinedInput-input {
+  font-size: 12px;
+  padding: 0px 5px;
+  font-family: 'Segoe UI', sans-serif !important;
+}
+
+.MuiTabs-scroller {
+  margin-top: 0px;
+}
+
+.MuiOutlinedInput-notchedOutline {
+  height: 30px !important;
+  /* width: 100% !important; */
+}
+
+/* .MuiInputBase-input .span{
+  color: var(--font-color);
+} */
+
+.MuiFormControl-root {
+  width: 100%;
+}
+
+.form-container .MuiFormControl-root {
+  margin-bottom: 10px !important;
+}
+
+.MuiButtonBase-root-MuiRadio-root.Mui-checked {
+  color: var(--font-color) !important;
+}
+
+.MuiSelect-select .select-menu-item {
+  font-size: 12px;
+  font-family: 'Segoe UI', sans-serif !important;
+
+}
+
+.MuiInputBase-root .MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input.MuiSelect-select {
+  line-height: 0.3em !important;
+
+}
+
+.MuiInputBase-root .MuiSvgIcon-root {
+  color: var(--font-color);
+}
+
+.MuiOutlinedInput-notchedOutline {
+  padding: 0;
+}
+
+.MuiPaper-root {
+  left: 5px !important;
+}
+
+.MuiList-root {
+  padding: 0px !important;
+}
+
+.MuiList-root .MuiButtonBase-root {
+  min-height: 0px !important;
+  font-family: 'Segoe UI', sans-serif !important;
+  font-size: 12px !important;
+}
+
+
+.tabs-content {
+  position: relative;
+  transition: transform 0.4s ease;
+  margin-top: 0px;
+}
+
+/* .tabs-content.slide-left {
+  transform: translateX(-100%);
+  overflow: hidden;
+}
+
+.tabs-content.slide-right {
+  transform: translateX(100%);
+  /* Slide right */
+/* } */ */
+
+.tabs-content.slide-left,
+.tabs-content.slide-right {
+  overflow: hidden;
+  /* Ensures scrollbars are hidden during transition */
+  transform: translateX(100%);
+}
+
+/* Container for the search input and image */
+.search-input-container {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  width: 100%;
+}
+.search-icon-textfield .MuiFormControl-root .MuiFormLabel-root{
+  line-height: 2.4375em !important;
+}
+
+.MuiSelect-select.MuiSelect-outlined.MuiInputBase-input.MuiOutlinedInput-input.css-w76bbz-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input{
+  margin-top: 9px !important;
+}
+
+/* Styling for the TextField wrapper */
+.search-field-wrapper {
+  flex-grow: 1;
+  padding: 1px;
+  font-size: 12px;
+}
+
+/* Custom search image styling */
+.search-icon {
+  padding-top: 8px !important;
+  cursor: pointer;
+  width: 40px;
+  height: 20px;
+  color: var(--font-color);
+}
+
+
+/* TextField input styles */
+.text-field-root {
+  height: 40px !important;
+}
+
+.text-field-input {
+  color: var(--font-color) !important;
+  font-size: 12px !important;
+  padding: 0px 0px !important;
+}
+.search-icon-textfield{
+  display: flex !important;
+}
+
+.text-field-label {
+  color: var(--font-color) !important;
+  font-size: 12px !important;
+  font-family: 'Segoe UI', sans-serif !important;
+}
+
+.text-field-outline {
+  border-color: var(--font-color) !important;
+}
+
+.text-field-outline:hover {
+  border-color: var(--font-color) !important;
+}
+
+.text-field-focused .MuiOutlinedInput-notchedOutline {
+  border-color: var(--font-color) !important;
+}
+
+.MuiFormControl-root .MuiFormLabel-root {
+  color: var(--font-color) !important;
+  font-size: 12px;
+}
+
+.MuiInputBase-input-MuiOutlinedInput-input:-webkit-autofill {
+  font-size: 12px;
+}
+
+.MuiTypography-root {
+  font-size: 12px !important;
+  font-family: 'Segoe UI', sans-serif !important;
+}
+
+.form-container .MuiButtonBase-root {
+  min-width: 33px !important;
+}
+.radio{
+  padding-left: 10px !important;
+}
+
+.form-container{
+  margin-top: 12px !important;
+}
+
+.search-field-wrapper .MuiInputBase-root .MuiInputBase-input {
+  color: var(--font-color);
+  font-weight: 500;
+  font-size: 12px;
+}
+.search-field-wrapper .MuiInputBase-input{
+  height: 3.4375em !important;
+}
+
+.form-container .MuiFormGroup-root {
+  padding-top: 22px;
+  padding-left: 5px;
+}
+
+.form-box {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  margin-top: 0px;
+}
+
+.search-field-wrapper .MuiFormLabel-root {
+  padding-bottom: 10px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.In-Container .MuiTabs-flexContainer {
+  height: 30px;
+}
+
+.MuiButtonBase-root.MuiTab-root.MuiTab-textColorPrimary.Mui-selected {
+  color: var(--link-color) !important;
+  /* min-width: 68px !important; */
+}
+
+.MuiInputBase-root .MuiSelect-select {
+  padding-bottom: 9px !important;
+  font-family: 'Segoe UI', sans-serif !important;
+  font-size: 12px !important;
+}
+
+
+
+/* property table */
+.snackbar-message {
+  color: #050505;
+  background-color: #ffffff;
+}
+
+.snackbar-content {
+  background-color: var(--font-color) !important;
+  color: var(--font-color);
+}
+
+.copy-icon-wrapper {
+  position: absolute;
+  right: 8px;
+  top: 50%;
+  transform: translateY(-50%);
+  opacity: 0;
+  transition: opacity 0.3s;
+  cursor: pointer;
+}
+
+
+.copy-icon-wrapper img {
+  width: 16px;
+  height: 16px;
+}
+
+.styled-table-row:hover {
+  background-color: #ffffff;
+}
+
+.styled-table-row:hover .copy-icon-wrapper {
+  opacity: 1;
+}
+
+.MuiTableBody-root {
+  display: flex !important;
+  flex-direction: column;
+  gap: 5px;
+  padding: 2px;
+
+}
+
+.MuiTableRow-root {
+  display: flex !important;
+  width: 100% !important;
+  border: 1px solid white !important;
+  border-radius: 0px !important;
+}
+
+.MuiTableCell-root {
+  width: 50%;
+  border: none !important;
+  display: flex !important;
+  align-items: center;
+  font-weight: 500 !important;
+  border: #ffffff;
+}
+/* .MuiTable-root .MuiTableCell-root{
+  padding: 10px !important;
+} */
+
+.MuiTableRow-root .MuiTableCell-root{
+  padding: 9px !important;
+}
+@media (max-width: 300px) {
+  .MuiTableRow-root .MuiTableCell-root, .MuiCardContent-root {
+   padding: 5px !important;
+  }
+}
+@media (max-width: 300px) {
+  .MuiCardContent-root .MuiTableCell-root, .MuiCardContent-root{
+   padding: 2px !important;
+  }
+}
+@media (max-width: 200px) {
+  .MuiCardContent-root .MuiTableCell-root{
+   padding: 3px !important;
+  }
+}
+@media (max-width: 100px) {
+  .MuiCardContent-root .MuiTableCell-root{
+   padding: 1px !important;
+  }
+}
+
+
+@media(max-width:280px){
+  .tab-container .MuiTabs-root .MuiButtonBase-root{
+    justify-content: start !important; 
+    min-width: 0px !important;
+
+  }
+}
+@media(max-width:280px){
+
+  .tab-container .MuiTabs-flexContainer{
+    gap: 22px !important;
+    height: 30px !important;
+    padding-left: 5px;
+    align-items: center !important;
+  }
+}
+@media(max-width:250px){
+
+  .tab-container .MuiTabs-flexContainer{
+    gap: 10px !important;
+    height: 30px !important;
+    padding-left: 5px;
+    align-items: center !important;
+  }
+}
+@media(max-width:200px){
+
+  .tab-container .MuiTabs-flexContainer{
+    gap: 4px !important;
+    height: 30px !important;
+    padding-left: 5px;
+    align-items: center !important;
+  }
+}
+  
+/* @media(max-width:250px){
+  .tab-container .MuiButtonBase-root{
+    min-width: 5px !important;
+    justify-content: center !important; 
+  }
+} */
+/* @media(min-width:1800px){
+  .tab-container .MuiButtonBase-root{
+    min-width: 60px !important;
+    justify-content: center !important; 
+  }
+} */
+
+/* @media(max-width:300px){
+  .tab-container .MuiButtonBase-root{
+    min-width: 0 !important;
+    gap: 5px !important;
+    justify-content: start !important; 
+  }
+} */
+
+.Lib_container .MuiTabs-flexContainer{
+  display: flex !important;
+  justify-content: start !important
+  ;
+}
+
+/* // svg content  */
+.svg-card {
+  background-color: #778899 !important;
+  margin-top: 20px;
+  position: relative !important;
+  border-radius: 8px;
+  color: white;
+  font-size: 12px;
+  font-family: 'Segoe UI', sans-serif;
+  padding: 8px;
+  padding-top: 10px;
+  justify-content: center !important;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.svg-card-sm {
+  margin-top: 10px;
+  padding: 7px;
+}
+
+.svg-wrapper {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 100%;
+  justify-content: flex-end !important;
+  align-items: center;
+}
+
+.svg-wrapper svg {
+  width: 100%;
+  height: auto;
+  max-height: 325px;
+}
+
+.svg-wrapper-md svg {
+  max-height: 250px;
+}
+
+.svg-wrapper-sm svg {
+  max-height: 200px;
+}
+
+.pnumber-div {
+  display: flex;
+  justify-content: center !important;
+  position: relative;
+  width: 100%;
+}
+
+.product-number {
+  text-align: center !important;
+  position: relative;
+  justify-content: center !important;
+  margin-top: 0 !important;
+  margin: 0 !important;
+  width: 100%;
+  color: var(--font-color);
+  font-weight: bold;
+  bottom: 0.2%;
+}
+
+.product-number {
+  font-size: 10px !important;
+}
+
+@media (min-width: 100px) {
+  .product-number {
+    font-size: 8px !important;
+  }
+}
+
+@media (min-width: 300px) {
+  .product-number {
+    font-size: 8px !important;
+  }
+}
+
+
+@media (min-width: 600px) {
+  .product-number {
+    font-size: 8px !important;
+  }
+}
+
+@media (min-width: 900px) {
+  .product-number {
+    font-size: 12px !important;
+  }
+}
+
+@media (min-width: 1200px) {
+  .product-number {
+    font-size: 12px !important;
+  }
+}
+
+
+.rc-tree .rc-tree-switcher-noop {
+  background-color: #ffffff !important;
+  color: black;
+}
+
+
+.rc-tree-node-selected {
+  background-color: var(--font-color) !important;
+  box-shadow: none !important;
+
+}
+
+
+.custom-rc-tree .rc-tree-node-content-wrapper {
+  font-size: 12px;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.custom-rc-tree .rc-tree-treenode-selected {
+  background-color: var(--font-color) !important;
+  color: black !important;
+  width: 100% !important;
+  line-height: 0px;
+  min-height: 10px !important;
+  display: flex !important;
+  align-items: center;
+  /* position: unset !important; */
+}
+
+.rc-tree-treenode {
+  display: flex !important;
+  align-items: center;
+  width: 100% !important;
+}
+
+.rc-tree {
+  width: 100%;
+}
+
+.rc-tree .rc-tree-node-selected .rc-tree-switcher {
+  color: black !important;
+  background-color: #efefef !important;
+}
+
+.custom-rc-tree .rc-tree-node-selected .rc-tree-iconEle {
+  background-color: #efefef !important;
+}
+.search-tree .rc-tree-node-selected .rc-tree-iconEle {
+  background-color: #efefef !important;
+}
+
+/* Set icon styles for selected nodes */
+/* .custom-rc-tree .rc-tree-node-selected .css-i4bv87-MuiSvgIcon-root {
+    color: black !important; 
+    background-color: #efefef !important;  
+  } */
+
+.rc-tree .rc-tree-treenode .rc-tree-node-content-wrapper {
+  /* position: unset !important; */
+  display: flex !important;
+  align-items: center !important;
+}
+
+.MuiTabs-scroller {
+  margin-top: 0px;
+}
+
+/*  
+   .rc-tree .rc-tree-treenode{
+     line-height: 0px;
+   } */
+
+.svg path {
+  fill: var(--font-color);
+}
+
+.rc-tree-title {
+  font-weight: 500 !important;
+}
+
+.rc-tree .rc-tree-switcher-noop,
+.rc-tree .rc-tree-switcher_open,
+.rc-tree .rc-tree-switcher_close {
+  background: none !important;
+  width: 0;
+  height: 0;
+}
+
+.back-icon {
+  cursor: pointer;
+  padding: 0;
+  display: inline-block;
+  margin-left: 0em;
+  margin-bottom: 0;
+  margin-top: 10px;
+  font-weight: 500;
+  font-size: 12px;
+}
+
+.rc-tree .rc-tree-treenode span.rc-tree-switcher.rc-tree-switcher_open {
+  font-size: 0 !important;
+  line-height: 0 !important;
+}
+
+.rc-tree .rc-tree-treenode span.rc-tree-switcher.rc-tree-switcher_close {
+  font-size: 0 !important;
+  line-height: 0 !important;
+}
+
+.MuiTabs-root {
+  min-height: 5px !important;
+}
+
+.tab {
+  display: flex;
+}
+
+.scroll-btn {
+  min-width: 0 !important;
+  min-height: 0 !important;
+}
+
+.MuiTabs-root {
+  justify-content: center !important;
+  align-items: center !important;
+
+}
+
+.tab .MuiButtonBase-root .MuiSvgIcon-root .MuiTouchRipple-root {
+  min-width: 0 !important;
+  min-height: 0 !important;
+}
+
+.MuiTabs-root .MuiTabs-scrollButtons {
+  min-width: 0 !important;
+  min-height: 0 !important;
+  width: 20px !important;
+}
+
+.custom-tabs {
+  width: 100%;
+}
+
+@media (max-width: 300px) {
+  .custom-tabs .MuiTabs-scrollButtons {
+    display: flex !important;
+    width: 20px !important;
+    /* Ensure scroll buttons are visible below 300px */
+  }
+}
+
+.MuiBackdrop-root .MuiPaper-root {
+  left: 5px !important;
+}
+
+.search-input-container .injected-svg{
+  padding-left: 5px;
+  padding-right: 5px;
+  color: var(--font-color) !important;
+}
+
+.filter{
+ /* width: 50% !important;  */
+display: flex;
+flex-direction: column;
+ justify-content: center;
+ gap: 0 !important;
+}
+
+.nz-tree-node-nz-icon-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 24px; */
+  /* padding-left: 2px; */
+}
+.search-tree .nz-tree-node-nz-icon-div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nz-tree-node-nz-icon-div div {
+  flex: 1 1 auto;
+  display: flex;
+  height: 0px !important;
+}
+.nz-treeview-img-auth svg path,
+.nz-treeview-img-auth svg line,
+.nz-treeview-img-auth svg circle,
+.nz-treeview-img-auth svg rect,
+.nz-treeview-img-auth svg polyline,
+.nz-treeview-img-auth svg ellipse,
+.nz-treeview-img-auth svg polygon {
+  stroke: var(--font-color);
+  width: 16px !important;
+}
+.rc-tree-treenode:hover {
+  background-color: var(--secondary);
+
+  color: var(--textsecondary);
+}
+
+.nz-icon-cross {
+  color: var(--btn_error_bg);
+  /* font-size: 16px; */
+  width: 16px;
+  height: 16px;
+  padding-top: 2px;
+}
+.nz-tree-node-nz-icon-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 0px !important;
+  /* padding-left: 2px; */
+}
+
+
+.rc-tree-iconEle rc-tree-icon__customize .rc-image-img .nz-treeview-img-auth  .ng-red-check{
+  width: 16px !important;
+
+}
+
+.rc-image .rc-image-img {
+  width: 16px !important;
+}
+
+.ag-theme-alpine {
+  font-family: 'Segoe UI', sans-serif !important;
+  font-weight: 400;
+  font-size: 14px !important;
+  position: absolute;
+  height: 50%;
+  margin-top: 20px !important;
+}
+.ag-cell{
+  padding: 5px !important;
+  width: 100% !important;
+}
+.ag-header-cell-label{
+  display: flex;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 0 !important ;
+}
+.ag-header-cell-resize{
+  display: none !important;
+}
+.nz-list-nav-category {
+  padding: 0px 0px 0px 0px;
+  font-size: 14px;
+  white-space: normal;
+  font-family: var(--fontfamily);
+  line-height: 24px;
+  height: 100%;
+  /* position: absolute; */
+}
+.nz-list-nav-category .title {
+  padding: 2px 5px 5px 5px;
+  background: var(--secondary);
+  font-weight: bold;
+  width: 100%;
+  font-family: var(--fontfamily);
+  letter-spacing: 0.00938em;
+  font-size: 14px !important;
+  /* margin-bottom: 5px; */
+}
+.nz-search-setting-with-filter {
+  display: flex
+;
+  width: 100%;
+  /* padding: 2px 0px; */
+  position: initial;
+  align-items: center;
+  height: 40px;
+}
+.rc-tree-list-holder-inner .rc-tree-title {
+  /* padding-right: 8px; */
+  line-height: 24px;
+}
+
+.search-tree .rc-tree-node-selected{
+  color: black !important;
+  background-color: var(--font-color);
+  width: 100% ;
+  padding-left: 5px !important;
+}
+.search-tree .rc-tree-treenode{
+  width: 100% !important;
+}
+.search-tree .rc-tree .rc-tree-treenode .rc-tree-node-content-wrapper{
+  height: 24px !important;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  cursor: pointer;
+}
+.search-tree .rc-tree-iconEle .rc-tree-icon__customize svg{
+  display: flex;
+}
+
+.search-tree .rc-tree .rc-tree-treenode span.rc-tree-checkbox{
+  margin: 0 3px;
+  background-position: 0 0;
+}
+.search-tree .rc-tree-treenode .rc-tree-treenode-switcher-open .rc-tree-treenode-selected .rc-tree-treenode-leaf-last{
+  margin: 0;
+    padding: 0;
+    line-height: 24px;
+    display: flex !important;
+    align-items: center
+}
+.hide-tree {
+  display: none !important;
+}
+.search-tree .rc-tree-treenode-checkbox-checked .rc-tree-checkbox.rc-tree-checkbox-checked:after{
+  content: "" !important;
+    display: block !important; 
+    position: absolute !important;
+    top: 0px !important;
+    left: 4px !important;
+    width: 15px !important;
+    height: 8px !important;
+    border: solid var(--textprimary) !important;
+    border-width: 0px 1px 1px 0 !important; 
+    transform: rotate(45deg) !important;
+}
+.ag-header-cell{
+  width: 50% !important;
+  height: 48px !important;
+}
+/* .custom-rc-tree .rc-tree-title{
+margin-top:23px !important;
+} */
+
+ /* .custom-rc-tree .rc-tree-treenode-selected .svg .polygon{
+  stroke: #050505;
+ } */
+ /* .rc-tree-treenode-selected .nz-treeview-img-auth svg path, .nz-treeview-img-auth svg line, .nz-treeview-img-auth svg circle, .nz-treeview-img-auth svg rect, .nz-treeview-img-auth svg polyline, .nz-treeview-img-auth svg ellipse, .nz-treeview-img-auth svg polygon{
+stroke: #050505 !;
+ } */
+
+ 
+.custom-rc-tree {
+  min-height: 10px !important;
+}

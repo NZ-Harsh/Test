@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.Binx0{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<g>
+	<line class="Binx0" x1="15.7" y1="17.8" x2="112.4" y2="17.8"/>
+</g>
+<g>
+	<line class="Binx0" x1="63.8" y1="42.9" x2="64.2" y2="102.6"/>
+	<line class="Binx0" x1="42.1" y1="42.9" x2="42.5" y2="102.6"/>
+	<line class="Binx0" x1="85.5" y1="42.9" x2="85.9" y2="102.6"/>
+</g>
+<path class="Binx0" d="M99.9,115.1H28.2c-3,0-5.4-2.4-5.4-5.4V17.9h82.6v91.8C105.4,112.7,102.9,115.1,99.9,115.1z"/>
+<polyline class="Binx0" points="44,17.4 44,6 84.5,6 84.5,17.6 43.5,17.6 "/>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.EmptyRoomx0{fill:#5469B0;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.EmptyRoomx1{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<polygon class="EmptyRoomx0" points="8.2,75.1 64,40.2 119.8,75.1 64,110.1 "/>
+<polyline class="EmptyRoomx1" points="111.8,47.5 119.8,52.5 102,63.6 83.2,75.4 64,87.4 44.8,75.4 26,63.6 8.2,52.5 64,17.6 71.3,22.1 "/>
+<circle class="EmptyRoomx1" cx="90.7" cy="35" r="12.4"/>
+<line class="EmptyRoomx1" x1="71.5" y1="39" x2="111.2" y2="30.4"/>
+</svg>

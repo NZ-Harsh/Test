@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.Contactsx0{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.Contactsx1{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.Contactsx2{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.Contactsx3{fill:none;stroke:#010101;stroke-width:3;stroke-miterlimit:10;}
+	.Contactsx4{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;}
+	.Contactsx5{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.Contactsx6{fill:none;stroke:#010101;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.Contactsx7{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.Contactsx8{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.Contactsx9{fill:none;stroke:#010101;stroke-width:4;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<path class="Contactsx0" d="M17.49,27.02v-9.39C17.49,10.1,23.59,4,31.12,4h65.76c7.53,0,13.63,6.1,13.63,13.63v92.73
+			c0,7.53-6.1,13.63-13.63,13.63H31.12c-7.53,0-13.63-6.1-13.63-13.63v-10.32V27.02z"/>
+		<g>
+			<path class="Contactsx0" d="M17.49,41.44h8.37c1.98,0,3.79-0.81,5.09-2.12c1.31-1.31,2.12-3.11,2.12-5.09c0-3.97-3.24-7.21-7.21-7.21
+				h-8.37"/>
+			<path class="Contactsx0" d="M17.49,70.74h8.37c1.98,0,3.79-0.81,5.09-2.12c1.31-1.31,2.12-3.11,2.12-5.09c0-3.97-3.24-7.21-7.21-7.21
+				h-8.37"/>
+			<path class="Contactsx0" d="M17.49,100.05h8.37c1.98,0,3.79-0.81,5.09-2.12c1.31-1.31,2.12-3.11,2.12-5.09c0-3.97-3.24-7.21-7.21-7.21
+				h-8.37"/>
+		</g>
+	</g>
+	<g>
+		<path class="Contactsx0" d="M48.5,90.38h37v-5.26c0-7.32-5.93-13.24-13.24-13.24H61.74c-7.32,0-13.24,5.93-13.24,13.24V90.38z"/>
+		<circle class="Contactsx0" cx="67" cy="49.95" r="12.33"/>
+	</g>
+</g>
+</svg>

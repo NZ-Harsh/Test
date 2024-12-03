@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.AddNewAuditSessionx0{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.AddNewAuditSessionx1{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.AddNewAuditSessionx2{fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.AddNewAuditSessionx3{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<g>
+	<polyline class="AddNewAuditSessionx0" points="83.8,32.7 91.7,24.1 83.8,15.8 	"/>
+	<polyline class="AddNewAuditSessionx0" points="64.1,24.4 56.2,32.9 64.1,41.2 	"/>
+	<line class="AddNewAuditSessionx0" x1="69.4" y1="24.1" x2="91.4" y2="24.1"/>
+	<line class="AddNewAuditSessionx0" x1="78.5" y1="32.9" x2="56.5" y2="32.9"/>
+	<path class="AddNewAuditSessionx1" d="M99.2,63V23.8V11.9c0-3.7-3-6.6-6.6-6.6H19.8c-3.7,0-6.6,3-6.6,6.6v85.6c0,3.7,3,6.6,6.6,6.6h9h24.9"/>
+	<path class="AddNewAuditSessionx1" d="M28.8,104.2v11.9c0,3.7,3,6.6,6.6,6.6h28.2"/>
+	<path class="AddNewAuditSessionx1" d="M99.2,23.8h9c3.7,0,6.6,3,6.6,6.6V63"/>
+	<g>
+		<circle class="AddNewAuditSessionx1" cx="82.2" cy="88.6" r="20.2"/>
+		<line class="AddNewAuditSessionx1" x1="96.1" y1="103.2" x2="114.8" y2="122.7"/>
+	</g>
+	<line class="AddNewAuditSessionx1" x1="22.7" y1="88.6" x2="49.4" y2="88.6"/>
+	<line class="AddNewAuditSessionx1" x1="22.7" y1="73.1" x2="55.4" y2="73.1"/>
+	<line class="AddNewAuditSessionx1" x1="22.7" y1="59.5" x2="69.4" y2="59.5"/>
+	<line class="AddNewAuditSessionx2" x1="25.8" y1="44.6" x2="25.8" y2="23.8"/>
+	<line class="AddNewAuditSessionx2" x1="35.3" y1="44.6" x2="35.3" y2="17.8"/>
+	<line class="AddNewAuditSessionx2" x1="44.8" y1="44.6" x2="44.8" y2="29.8"/>
+</g>
+<line class="AddNewAuditSessionx3" x1="69.4" y1="90.2" x2="96.1" y2="90.2"/>
+<line class="AddNewAuditSessionx3" x1="82.8" y1="103.6" x2="82.8" y2="76.9"/>
+</svg>

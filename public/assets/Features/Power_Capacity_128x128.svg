@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.PowerCapacityx0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.PowerCapacityx1{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.PowerCapacityx2{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:21.3333;}
+	.PowerCapacityx3{fill:#FFFFFF;fill-opacity:0;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.PowerCapacityx4{fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+	.PowerCapacityx5{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.PowerCapacityx6{fill:none;stroke:#010101;stroke-width:3;stroke-miterlimit:10;}
+	.PowerCapacityx7{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.PowerCapacityx8{fill:none;stroke:#010101;stroke-width:4;stroke-miterlimit:10;}
+	.PowerCapacityx9{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.PowerCapacityx10{fill:none;stroke:#020202;stroke-width:5;stroke-miterlimit:10;}
+	.PowerCapacityx11{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.PowerCapacityx12{fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.PowerCapacityx13{fill:none;stroke:#010101;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<path class="PowerCapacityx11" d="M97.3,17.7c14.8,10.4,24.4,27.6,24.4,47"/>
+<path class="PowerCapacityx11" d="M29.4,110.8c-14-10.5-23-27.2-23-46.1C6.4,33,32.2,7.2,64,7.2c1,0,2,0,3.1,0.1"/>
+<polygon class="PowerCapacityx11" points="87.5,5.6 30.2,73.3 55.6,73.3 40.4,120.9 95.2,53.6 70.8,53.6 "/>
+<g>
+	<polyline class="PowerCapacityx6" points="102.4,104.8 102.4,104.4 102.4,98.4 102.4,98 102.4,96.7 	"/>
+	<polyline class="PowerCapacityx6" points="96.7,98.4 102.1,98.4 102.4,98.4 102.4,98 102.4,96.7 	"/>
+	<line class="PowerCapacityx6" x1="85.7" y1="92" x2="80.7" y2="92"/>
+	<line class="PowerCapacityx6" x1="102.4" y1="104.8" x2="100.5" y2="104.8"/>
+	<path class="PowerCapacityx9" d="M100.5,120.8c-3.9,0-7.5-1-10.6-2.8c-3.2-1.9-5.9-4.5-7.8-7.7c-1.8-3.1-2.8-6.7-2.8-10.6c0-3.9,1-7.5,2.8-10.6
+		c1.9-3.2,4.5-5.9,7.8-7.7c3.1-1.8,6.7-2.8,10.6-2.8s7.5,1,10.6,2.8c3.2,1.9,5.9,4.5,7.7,7.7c1.8,3.1,2.8,6.7,2.8,10.6
+		c0,4-1.1,7.8-3.1,11"/>
+	<circle class="PowerCapacityx9" cx="100.5" cy="100.5" r="4.3"/>
+	<circle class="PowerCapacityx9" cx="100.5" cy="100.5" r="1.1"/>
+	<line class="PowerCapacityx9" x1="100.5" y1="79.3" x2="100.5" y2="84"/>
+	<line class="PowerCapacityx9" x1="100.5" y1="100.7" x2="100.5" y2="100.5"/>
+	<line class="PowerCapacityx9" x1="100.5" y1="100.5" x2="107.7" y2="91.1"/>
+	<path class="PowerCapacityx9" d="M100.5,116.2v4.7V116.2z"/>
+	<g>
+		<line class="PowerCapacityx9" x1="89.9" y1="82.2" x2="92.2" y2="86.2"/>
+	</g>
+	<g>
+		<line class="PowerCapacityx9" x1="82.1" y1="89.9" x2="86.2" y2="92.3"/>
+	</g>
+	<g>
+		<line class="PowerCapacityx9" x1="79.3" y1="100.5" x2="83.9" y2="100.5"/>
+		<line class="PowerCapacityx9" x1="117" y1="100.5" x2="121.6" y2="100.5"/>
+	</g>
+	<line class="PowerCapacityx9" x1="83" y1="111.1" x2="87" y2="108.8"/>
+	<line class="PowerCapacityx9" x1="114.8" y1="93.1" x2="118.8" y2="90.8"/>
+	<line class="PowerCapacityx9" x1="90.7" y1="118" x2="93.1" y2="114"/>
+	<line class="PowerCapacityx9" x1="110.4" y1="86.2" x2="112.8" y2="82.2"/>
+</g>
+</svg>

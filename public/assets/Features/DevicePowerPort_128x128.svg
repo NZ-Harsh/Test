@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.DevicePowerPortx0{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DevicePowerPortx1{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.DevicePowerPortx2{fill:#F89A1F;stroke:#F89A1F;stroke-miterlimit:10;}
+	.DevicePowerPortx3{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.DevicePowerPortx4{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.DevicePowerPortx5{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DevicePowerPortx6{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DevicePowerPortx7{fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DevicePowerPortx8{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.DevicePowerPortx9{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.DevicePowerPortx10{fill:#F9BB16;}
+	.DevicePowerPortx11{fill:#EA4435;}
+	.DevicePowerPortx12{fill:#2FA952;}
+	.DevicePowerPortx13{fill:#547DBF;}
+	.DevicePowerPortx14{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DevicePowerPortx15{stroke:#000000;stroke-miterlimit:10;}
+	.DevicePowerPortx16{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.DevicePowerPortx17{fill:none;stroke:#020202;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<g>
+		<rect x="28.55" y="11.98" class="DevicePowerPortx16" width="70.91" height="20.83"/>
+		<rect x="28.55" y="41.39" class="DevicePowerPortx16" width="70.91" height="18.67"/>
+		<rect x="19.99" y="4" class="DevicePowerPortx16" width="88.02" height="120"/>
+		<path class="DevicePowerPortx4" d="M86.41,112.51H41.58c-2.68,0-4.86-2.18-4.86-4.86v-30.5c0-2.68,2.18-4.86,4.86-4.86h44.83
+			c2.68,0,4.86,2.18,4.86,4.86v30.51C91.26,110.35,89.1,112.51,86.41,112.51z"/>
+		<line class="DevicePowerPortx4" x1="49" y1="80.13" x2="49" y2="96.49"/>
+		<line class="DevicePowerPortx7" x1="79" y1="80.13" x2="79" y2="96.49"/>
+		<line class="DevicePowerPortx7" x1="64" y1="88.31" x2="64" y2="104.67"/>
+	</g>
+</g>
+</svg>

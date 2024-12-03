@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.SwitchStatusbarx0{fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.SwitchStatusbarx1{fill:none;stroke:#010101;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.SwitchStatusbarx2{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.SwitchStatusbarx3{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.SwitchStatusbarx4{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.SwitchStatusbarx5{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.SwitchStatusbarx6{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.SwitchStatusbarx7{fill:none;stroke:#020202;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.SwitchStatusbarx8{fill:none;stroke:#020202;stroke-width:5;stroke-miterlimit:10;}
+	.SwitchStatusbarx9{fill:none;stroke:#020202;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.SwitchStatusbarx10{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.SwitchStatusbarx11{fill:none;stroke:#010101;stroke-miterlimit:10;}
+	.SwitchStatusbarx12{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.SwitchStatusbarx13{fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<g>
+		<g>
+			<line class="SwitchStatusbarx9" x1="78.58" y1="73.52" x2="78.58" y2="14.48"/>
+			<line class="SwitchStatusbarx9" x1="64" y1="93.52" x2="64" y2="34.48"/>
+			<line class="SwitchStatusbarx9" x1="49.42" y1="113.52" x2="49.42" y2="54.48"/>
+		</g>
+		<path class="SwitchStatusbarx6" d="M109.88,82.55c4.57,3.23,7.54,8.54,7.54,14.56c0,6.96-3.99,12.99-9.81,15.92"/>
+		<path class="SwitchStatusbarx6" d="M88.87,111.36c-4.32-3.26-7.12-8.43-7.12-14.25c0-7.45,4.58-13.84,11.07-16.5"/>
+		<polygon class="SwitchStatusbarx6" points="93.64,73.89 92.34,84.73 102.38,80.44 		"/>
+		<polygon class="SwitchStatusbarx6" points="107.62,120.16 107.62,109.24 98.16,114.7 		"/>
+	</g>
+</g>
+</svg>

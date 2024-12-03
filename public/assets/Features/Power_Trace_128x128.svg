@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.PowerTracex0{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.PowerTracex1{fill:none;stroke:#010101;stroke-width:3;stroke-miterlimit:10;}
+	.PowerTracex2{fill:#010101;stroke:#010101;stroke-miterlimit:10;}
+	.PowerTracex3{fill:#010101;}
+	.PowerTracex4{fill:#010101;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.PowerTracex5{fill:none;stroke:#010101;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<circle class="PowerTracex0" cx="64" cy="12.12" r="8.12"/>
+		<circle class="PowerTracex0" cx="64" cy="115.88" r="8.12"/>
+		<circle class="PowerTracex0" cx="110.39" cy="91.02" r="8.12"/>
+		<circle class="PowerTracex0" cx="17.61" cy="91.02" r="8.12"/>
+		<circle class="PowerTracex0" cx="110.39" cy="37.46" r="8.12"/>
+		<circle class="PowerTracex0" cx="17.61" cy="37.46" r="8.12"/>
+		<line class="PowerTracex0" x1="68.5" y1="18.88" x2="68.43" y2="18.75"/>
+		<line class="PowerTracex0" x1="103.29" y1="41.09" x2="103.16" y2="41.16"/>
+	</g>
+	<path class="PowerTracex0" d="M66.58,33.86l13.45,4.8c1.3,0.46,1.74,2.08,0.85,3.14L64.81,61l13.24,4.72c1.61,0.57,2.02,2.66,0.75,3.8
+		l-26.9,24.1c-1.31,1.17-4.11-0.89-3.36-2.48l11.51-22.03l-11.92-4.25c-1.87-0.67-2.62-2.91-1.53-4.57l16.69-25.34
+		C64,33.88,65.36,33.42,66.58,33.86z"/>
+	<line class="PowerTracex0" x1="71.3" y1="15.64" x2="103.22" y2="33.64"/>
+	<line class="PowerTracex0" x1="55.5" y1="15.64" x2="23.57" y2="33.64"/>
+	<line class="PowerTracex0" x1="55.5" y1="114.1" x2="23.57" y2="96.1"/>
+	<line class="PowerTracex0" x1="71.3" y1="114.1" x2="103.22" y2="96.1"/>
+	<line class="PowerTracex0" x1="110.36" y1="44.91" x2="110.36" y2="83.09"/>
+	<line class="PowerTracex0" x1="17.64" y1="44.91" x2="17.64" y2="83.09"/>
+</g>
+</svg>

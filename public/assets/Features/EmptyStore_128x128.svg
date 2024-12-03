@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.EmptyStorex0{fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.EmptyStorex1{fill:none;stroke:#010101;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.EmptyStorex2{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.EmptyStorex3{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.EmptyStorex4{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.EmptyStorex5{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.EmptyStorex6{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.EmptyStorex7{fill:none;stroke:#020202;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.EmptyStorex8{fill:none;stroke:#020202;stroke-width:5;stroke-miterlimit:10;}
+	.EmptyStorex9{fill:none;stroke:#020202;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.EmptyStorex10{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.EmptyStorex11{fill:none;stroke:#010101;stroke-miterlimit:10;}
+	.EmptyStorex12{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.EmptyStorex13{fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<g>
+		<g>
+			<path d="M90.49,119.05l12.84-16.4L91.7,87.63h8.87l7.54,10.1l7.38-10.1h8.79l-11.69,15.26l12.84,16.16h-9.15l-8.33-10.87
+				l-8.36,10.87H90.49z"/>
+		</g>
+		<g>
+			<polygon class="EmptyStorex6" points="110.84,17.25 17.16,17.25 7.16,36.35 120.84,36.35 			"/>
+			<line class="EmptyStorex6" x1="109.47" y1="75.88" x2="109.47" y2="48.99"/>
+			<polyline class="EmptyStorex6" points="18.14,48.98 18.14,110.75 73.09,110.75 82.54,110.75 			"/>
+			<rect x="29.89" y="63.76" class="EmptyStorex6" width="32.86" height="32.86"/>
+			<path class="EmptyStorex6" d="M82.54,110.74h-9.45V75.88c0-6.7,5.43-12.13,12.13-12.13c6.7,0,12.13,5.43,12.13,12.13"/>
+			<path class="EmptyStorex6" d="M18.53,48.99L18.53,48.99c-6.28,0-11.37-5.09-11.37-11.37v-1.28h22.74v1.28
+				C29.89,43.9,24.8,48.99,18.53,48.99z"/>
+			<path class="EmptyStorex6" d="M41.26,48.99L41.26,48.99c-6.28,0-11.37-5.09-11.37-11.37v-1.28h22.74v1.28
+				C52.63,43.9,47.54,48.99,41.26,48.99z"/>
+			<path class="EmptyStorex6" d="M64,48.99L64,48.99c-6.28,0-11.37-5.09-11.37-11.37v-1.28h22.74v1.28C75.37,43.9,70.28,48.99,64,48.99z"/>
+			<path class="EmptyStorex6" d="M86.74,48.99L86.74,48.99c-6.28,0-11.37-5.09-11.37-11.37v-1.28h22.74v1.28
+				C98.11,43.9,93.02,48.99,86.74,48.99z"/>
+			<path class="EmptyStorex6" d="M109.47,48.99L109.47,48.99c-6.28,0-11.37-5.09-11.37-11.37v-1.28h22.74v1.28
+				C120.84,43.9,115.75,48.99,109.47,48.99z"/>
+		</g>
+	</g>
+</g>
+</svg>

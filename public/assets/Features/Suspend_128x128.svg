@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.Suspendx0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.Suspendx1{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.Suspendx2{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.Suspendx3{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="Suspendx1" d="M120.57,55.73c-1.8-12.48-7.64-23.65-16.15-32.16C94.08,13.23,79.79,6.83,64,6.83
+		C32.43,6.83,6.83,32.42,6.83,64c0,15.78,6.4,30.08,16.75,40.42c8.5,8.51,19.68,14.35,32.16,16.15"/>
+	<line class="Suspendx1" x1="104.42" y1="23.58" x2="23.58" y2="104.42"/>
+	<g>
+		<circle class="Suspendx2" cx="96.4" cy="96.4" r="24.17"/>
+		<polyline class="Suspendx2" points="94.72,82.38 94.72,96.4 103.72,108.17 		"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.CableCapacityx0{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.CableCapacityx1{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.CableCapacityx2{fill:#F89A1F;stroke:#F89A1F;stroke-miterlimit:10;}
+	.CableCapacityx3{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.CableCapacityx4{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.CableCapacityx5{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.CableCapacityx6{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.CableCapacityx7{fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.CableCapacityx8{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.CableCapacityx9{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.CableCapacityx10{fill:#F9BB16;}
+	.CableCapacityx11{fill:#EA4435;}
+	.CableCapacityx12{fill:#2FA952;}
+	.CableCapacityx13{fill:#547DBF;}
+	.CableCapacityx14{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.CableCapacityx15{stroke:#000000;stroke-miterlimit:10;}
+	.CableCapacityx16{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.CableCapacityx17{fill:none;stroke:#020202;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+	<g>
+		<g>
+			<line class="CableCapacityx14" x1="60.97" y1="64" x2="7.54" y2="111.4"/>
+			<line class="CableCapacityx14" x1="66.27" y1="64" x2="120.46" y2="110.77"/>
+		</g>
+		<g>
+			<path class="CableCapacityx14" d="M68.43,58.11c1.23-0.63,2.06-1.91,2.06-3.38v-7.36c0-2.1-1.7-3.81-3.8-3.81h-7.37c-2.1,0-3.8,1.71-3.8,3.81
+				v7.36c0,1.47,0.83,2.75,2.06,3.38"/>
+			<g>
+				<line class="CableCapacityx14" x1="58.08" y1="43.57" x2="58.08" y2="14.47"/>
+				<line class="CableCapacityx14" x1="67.93" y1="43.57" x2="67.93" y2="14.47"/>
+			</g>
+			<circle class="CableCapacityx14" cx="63" cy="58.54" r="5.45"/>
+		</g>
+		<path class="CableCapacityx14" d="M14.29,106.78v0.01c2.47,3.38,4.95,6.74,9.93,6.74s7.46-3.37,9.95-6.75v-0.01c2.47-3.37,4.96-6.73,9.93-6.73
+			c4.98,0,7.46,3.37,9.95,6.74v0.01c2.48,3.38,4.96,6.74,9.93,6.74c4.98,0,7.46-3.37,9.96-6.75v-0.01c2.47-3.37,4.95-6.73,9.93-6.73
+			c4.97,0,7.45,3.37,9.95,6.74v0.01c2.47,3.38,4.95,6.74,9.93,6.74c4.97,0,7.47-3.37,9.95-6.75"/>
+		<path class="CableCapacityx14" d="M113.7,106.78c-2.48-3.37-4.98-6.74-9.94-6.74c-4.97,0-7.46,3.37-9.94,6.74v0.01
+			c-2.48,3.38-4.98,6.74-9.94,6.74c-4.97,0-7.46-3.37-9.94-6.75v-0.01c-2.48-3.37-4.98-6.73-9.94-6.73s-7.46,3.37-9.94,6.74v0.01
+			c-2.48,3.38-4.98,6.74-9.94,6.74s-7.46-3.37-9.94-6.75v-0.01c-2.48-3.37-4.98-6.73-9.94-6.73s-7.46,3.37-9.94,6.74v0.01"/>
+	</g>
+</g>
+<g id="Layer_2">
+</g>
+</svg>

@@ -1,0 +1,1 @@
+## Define NetZoom n20 api url's and paths 

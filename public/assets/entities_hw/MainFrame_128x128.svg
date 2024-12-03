@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.MainFramex0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.MainFramex1{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.MainFramex2{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.MainFramex3{stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.MainFramex4{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.MainFramex5{stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.MainFramex6{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+</style>
+<path class="MainFramex0" d="M34.9,70h58.1c1.8,0,3.3-1.5,3.3-3.3V52.9c0-1.8-1.5-3.3-3.3-3.3H34.9c-1.8,0-3.3,1.5-3.3,3.3v13.8
+	C31.6,68.5,33.1,70,34.9,70z"/>
+<rect x="64.9" y="56.7" transform="matrix(-1 -4.553392e-11 4.553392e-11 -1 153.7229 119.5543)" class="MainFramex1" width="23.9" height="6.2"/>
+<rect x="37.3" y="58.4" class="MainFramex1" width="20.2" height="2.7"/>
+<rect x="37.3" y="24.7" class="MainFramex1" width="20.2" height="2.7"/>
+<rect x="37.3" y="92.2" class="MainFramex1" width="20.2" height="2.7"/>
+<path class="MainFramex0" d="M34.9,36.2h58.1c1.8,0,3.3-1.5,3.3-3.3V19.1c0-1.8-1.5-3.3-3.3-3.3H34.9c-1.8,0-3.3,1.5-3.3,3.3v13.8
+	C31.6,34.7,33.1,36.2,34.9,36.2z"/>
+<rect x="64.9" y="22.9" transform="matrix(-1 -4.549617e-11 4.549617e-11 -1 153.7229 51.9883)" class="MainFramex1" width="23.9" height="6.2"/>
+<path class="MainFramex0" d="M34.9,103.8h58.1c1.8,0,3.3-1.5,3.3-3.3V86.7c0-1.8-1.5-3.3-3.3-3.3H34.9c-1.8,0-3.3,1.5-3.3,3.3v13.8
+	C31.6,102.3,33.1,103.8,34.9,103.8z"/>
+<rect x="64.9" y="90.5" transform="matrix(-1 -4.511603e-11 4.511603e-11 -1 153.7229 187.1202)" class="MainFramex1" width="23.9" height="6.2"/>
+<path class="MainFramex0" d="M17.6,115.8h92.7V10.5c0-3.6-2.9-6.5-6.5-6.5H24.1c-3.6,0-6.5,2.9-6.5,6.5V115.8z"/>
+<g>
+	<rect x="80.5" y="115.8" class="MainFramex0" width="21.6" height="8.2"/>
+	<rect x="25.9" y="115.8" class="MainFramex0" width="21.6" height="8.2"/>
+</g>
+</svg>

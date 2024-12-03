@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.Detailsx0{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.Detailsx1{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.Detailsx2{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.Detailsx3{fill:none;stroke:#010101;stroke-width:3;stroke-miterlimit:10;}
+	.Detailsx4{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;}
+	.Detailsx5{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.Detailsx6{fill:none;stroke:#010101;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.Detailsx7{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.Detailsx8{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.Detailsx9{fill:none;stroke:#010101;stroke-width:4;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="Detailsx0" d="M116.19,37.41H11.81C7.5,37.41,4,33.91,4,29.6V15.93c0-4.31,3.5-7.81,7.81-7.81h104.38
+		c4.31,0,7.81,3.5,7.81,7.81V29.6C124,33.91,120.5,37.41,116.19,37.41z"/>
+	<g>
+		<g>
+			<path class="Detailsx0" d="M23.75,106.31h29v-4.12c0-5.73-4.65-10.38-10.38-10.38h-8.24c-5.73,0-10.38,4.65-10.38,10.38V106.31z"/>
+			<circle class="Detailsx0" cx="38.25" cy="74.62" r="9.67"/>
+		</g>
+		<path class="Detailsx0" d="M62.35,119.88H14.16C8.55,119.88,4,115.33,4,109.73V61.53c0-5.61,4.55-10.16,10.16-10.16h48.19
+			c5.61,0,10.16,4.55,10.16,10.16v48.19C72.5,115.33,67.96,119.88,62.35,119.88z"/>
+	</g>
+	<g>
+		<line class="Detailsx2" x1="84.31" y1="55.39" x2="119" y2="55.39"/>
+		<line class="Detailsx2" x1="84.31" y1="70.51" x2="119" y2="70.51"/>
+		<line class="Detailsx2" x1="84.31" y1="85.63" x2="119" y2="85.63"/>
+		<line class="Detailsx2" x1="84.31" y1="100.75" x2="119" y2="100.75"/>
+		<line class="Detailsx2" x1="84.31" y1="115.87" x2="119" y2="115.87"/>
+	</g>
+</g>
+</svg>

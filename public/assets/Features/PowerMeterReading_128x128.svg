@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.DevicePowerMeterx0{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DevicePowerMeterx1{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.DevicePowerMeterx2{fill:#F89A1F;stroke:#F89A1F;stroke-miterlimit:10;}
+	.DevicePowerMeterx3{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.DevicePowerMeterx4{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.DevicePowerMeterx5{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DevicePowerMeterx6{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DevicePowerMeterx7{fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DevicePowerMeterx8{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.DevicePowerMeterx9{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.DevicePowerMeterx10{fill:#F9BB16;}
+	.DevicePowerMeterx11{fill:#EA4435;}
+	.DevicePowerMeterx12{fill:#2FA952;}
+	.DevicePowerMeterx13{fill:#547DBF;}
+	.DevicePowerMeterx14{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DevicePowerMeterx15{stroke:#000000;stroke-miterlimit:10;}
+	.DevicePowerMeterx16{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.DevicePowerMeterx17{fill:none;stroke:#020202;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+	<g>
+		<ellipse class="DevicePowerMeterx0" cx="64" cy="64" rx="57.82" ry="59.24"/>
+		<ellipse class="DevicePowerMeterx0" cx="63.64" cy="63.49" rx="45.47" ry="46.59"/>
+		<polyline class="DevicePowerMeterx0" points="65.4,27.64 59.15,38.33 68.42,36.53 61.84,47 		"/>
+		<circle class="DevicePowerMeterx0" cx="47.48" cy="87.13" r="4.23"/>
+		<circle class="DevicePowerMeterx0" cx="65.25" cy="87.13" r="4.23"/>
+		<circle class="DevicePowerMeterx0" cx="83.01" cy="87.13" r="4.23"/>
+		<rect x="38.21" y="56.58" class="DevicePowerMeterx0" width="52.07" height="14.45"/>
+	</g>
+</g>
+<g id="Layer_2">
+</g>
+</svg>

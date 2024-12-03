@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.Repeaterx0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.Repeaterx1{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.Repeaterx2{stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.Repeaterx3{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.Repeaterx4{stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="Repeaterx0" d="M118.6,124H13.8c-3.5,0-6.4-2.9-6.4-6.4V10.4c0-3.5,2.9-6.4,6.4-6.4h104.9c3.5,0,6.4,2.9,6.4,6.4v107.2
+		C125,121.1,122.2,124,118.6,124z"/>
+	<line class="Repeaterx0" x1="7" y1="81.1" x2="124.6" y2="81.1"/>
+	<line class="Repeaterx0" x1="103.6" y1="63.6" x2="103.6" y2="20.8"/>
+	<line class="Repeaterx0" x1="84.9" y1="63.6" x2="84.9" y2="33.2"/>
+	<line class="Repeaterx0" x1="66.2" y1="63.6" x2="66.2" y2="44.9"/>
+	<line class="Repeaterx0" x1="44.4" y1="62.1" x2="44.4" y2="36.3"/>
+	<polygon class="Repeaterx0" points="62.3,20.8 44.4,36.3 25.7,20.8 	"/>
+	<line class="Repeaterx0" x1="23.3" y1="103" x2="54.5" y2="103"/>
+</g>
+</svg>

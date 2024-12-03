@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.ModelBusinessServicex0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.ModelBusinessServicex1{stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.ModelBusinessServicex2{fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.ModelBusinessServicex3{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.ModelBusinessServicex4{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.ModelBusinessServicex5{fill:none;stroke:#FF0000;stroke-width:5;stroke-miterlimit:10;}
+	.ModelBusinessServicex6{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.ModelBusinessServicex7{stroke:#000000;stroke-miterlimit:10;}
+	.ModelBusinessServicex8{fill:#FF0000;}
+</style>
+<g>
+	<g>
+		<circle class="ModelBusinessServicex0" cx="93.33" cy="86.64" r="13.3"/>
+		<g>
+			<path class="ModelBusinessServicex0" d="M85.53,108.34c0.94,0.39,1.64,1.22,1.85,2.22l0.7,3.19c0.52,2,1.56,3.39,3.56,3.56h3.39
+				c2-0.17,3.04-1.56,3.56-3.56l0.7-3.19c0.22-1,0.91-1.82,1.85-2.22l2.03-0.84c0.94-0.39,2.02-0.29,2.88,0.26l2.75,1.76
+				c1.78,1.04,3.5,1.29,5.04,0l2.4-2.4c1.29-1.54,1.04-3.26,0-5.04l-1.76-2.75c-0.55-0.86-0.65-1.93-0.26-2.88l0.84-2.03
+				c0.39-0.94,1.22-1.64,2.22-1.85l3.19-0.7c2-0.52,3.39-1.56,3.56-3.56v-3.39c-0.17-2-1.56-3.04-3.56-3.56l-3.19-0.7
+				c-1-0.22-1.82-0.91-2.22-1.85l-0.84-2.03c-0.39-0.94-0.29-2.02,0.26-2.88l1.76-2.75c1.04-1.78,1.29-3.5,0-5.04l-2.4-2.4
+				c-1.54-1.29-3.26-1.04-5.04,0l-2.75,1.76c-0.86,0.55-1.93,0.65-2.88,0.26l-2.03-0.84c-0.94-0.39-1.64-1.22-1.85-2.22l-0.7-3.19
+				c-0.52-2-1.56-3.39-3.56-3.56h-3.39c-2,0.17-3.04,1.56-3.56,3.56l-0.7,3.19c-0.22,1-0.91,1.82-1.85,2.22l-2.03,0.84
+				c-0.94,0.39-2.02,0.29-2.88-0.26l-2.75-1.76c-1.78-1.04-3.5-1.29-5.04,0l-2.4,2.4c-1.29,1.54-1.04,3.26,0,5.04l1.76,2.75
+				c0.55,0.86,0.65,1.93,0.26,2.88l-0.84,2.03c-0.39,0.94-1.22,1.64-2.22,1.85l-3.19,0.7c-2,0.52-3.39,1.56-3.56,3.56v3.39
+				c0.17,2,1.56,3.04,3.56,3.56l3.19,0.7c1,0.22,1.82,0.91,2.22,1.85l0.84,2.03c0.39,0.94,0.29,2.02-0.26,2.88l-1.76,2.75
+				c-1.04,1.78-1.29,3.5,0,5.04l2.4,2.4c1.54,1.29,3.26,1.04,5.04,0l2.75-1.76c0.86-0.55,1.93-0.65,2.88-0.26L85.53,108.34z"/>
+		</g>
+	</g>
+	<path class="ModelBusinessServicex0" d="M4,41.15v-9.69c0-4.7,3.82-8.52,8.53-8.52h74.01c4.7,0,8.52,3.82,8.52,8.52v9.69H4z"/>
+	<path class="ModelBusinessServicex0" d="M68.91,92.47H12.52c-4.7,0-8.52-3.82-8.52-8.52V46.94h91.05v9.03"/>
+	<path class="ModelBusinessServicex0" d="M30.96,22.94v-7.27c0-2.75,2.7-4.97,6.03-4.97h25.08c3.32,0,6.02,2.23,6.02,4.97v7.27"/>
+</g>
+</svg>

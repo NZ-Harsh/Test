@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.APx0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.APx1{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.APx2{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.APx3{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.APx4{stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="APx0" d="M124,17.02v11.52H4V17.02C4,9.82,9.82,4,17.02,4h93.95C118.18,4,124,9.82,124,17.02z"/>
+	<path class="APx0" d="M124,28.55v85.16c0,4.47-5.82,10.3-13.02,10.3H17.02C9.82,124,4,118.18,4,113.7V28.55H124z"/>
+	<g>
+		<line class="APx1" x1="32.58" y1="113.65" x2="32.58" y2="74.38"/>
+		<line class="APx1" x1="32.58" y1="60.63" x2="32.58" y2="37.29"/>
+		<line class="APx1" x1="74.47" y1="113.65" x2="74.47" y2="67.18"/>
+		<line class="APx1" x1="74.47" y1="53.43" x2="74.47" y2="37.29"/>
+		<line class="APx1" x1="53.69" y1="113.65" x2="53.69" y2="87.91"/>
+		<line class="APx1" x1="53.69" y1="74.16" x2="53.69" y2="37.29"/>
+		<line class="APx1" x1="95.42" y1="113.65" x2="95.42" y2="102.41"/>
+		<line class="APx1" x1="95.42" y1="88.67" x2="95.42" y2="37.29"/>
+		<rect x="25.71" y="60.63" class="APx1" width="13.75" height="13.75"/>
+		<rect x="67.6" y="53.43" class="APx1" width="13.75" height="13.75"/>
+		<g>
+			<rect x="46.65" y="74.16" class="APx1" width="13.75" height="13.75"/>
+		</g>
+		<rect x="88.55" y="88.67" class="APx1" width="13.75" height="13.75"/>
+	</g>
+</g>
+</svg>

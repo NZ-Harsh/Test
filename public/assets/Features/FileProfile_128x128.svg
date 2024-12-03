@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.FileProfilex0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.FileProfilex1{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.FileProfilex2{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:21.3333;}
+	.FileProfilex3{fill:#FFFFFF;fill-opacity:0;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.FileProfilex4{fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+	.FileProfilex5{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.FileProfilex6{fill:none;stroke:#010101;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="FileProfilex2" d="M108.5,37.5v0.6v71c0,6.8-5.5,12.3-12.3,12.3H31.8c-6.8,0-12.3-5.5-12.3-12.3V18.8C19.5,12,25,6.5,31.8,6.5
+		h47.9h0.2L108.5,37.5z"/>
+	<polyline class="FileProfilex2" points="108.1,38.7 107.5,38.7 78.8,38.7 78.8,7 78.8,6.8 	"/>
+	<g>
+		<path class="FileProfilex0" d="M42,100h42.2v-6c0-8.4-6.8-15.1-15.1-15.1h-12C48.8,78.9,42,85.6,42,94V100z"/>
+		<circle class="FileProfilex0" cx="63.2" cy="53.9" r="14.1"/>
+	</g>
+</g>
+</svg>

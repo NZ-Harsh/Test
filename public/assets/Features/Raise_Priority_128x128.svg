@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.RaisePriorityx0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.RaisePriorityx1{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.RaisePriorityx2{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.RaisePriorityx3{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<line class="RaisePriorityx1" x1="75.89" y1="67.39" x2="115.29" y2="67.39"/>
+		<line class="RaisePriorityx1" x1="75.89" y1="33.61" x2="115.29" y2="33.61"/>
+		<line class="RaisePriorityx1" x1="75.89" y1="101.17" x2="115.29" y2="101.17"/>
+	</g>
+	<path class="RaisePriorityx1" d="M58.56,33.61H46.48c-18.58,0-33.78,15.2-33.78,33.78v0c0,18.58,15.2,33.78,33.78,33.78h12.07"/>
+	<polygon class="RaisePriorityx1" points="46.8,33.61 46.8,26.83 52.68,30.22 58.56,33.61 52.68,37.01 46.8,40.4 	"/>
+</g>
+</svg>

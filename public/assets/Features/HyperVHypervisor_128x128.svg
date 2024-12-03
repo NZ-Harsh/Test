@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.HyperVHypervisorx0{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.HyperVHypervisorx1{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.HyperVHypervisorx2{fill:#F89A1F;stroke:#F89A1F;stroke-miterlimit:10;}
+	.HyperVHypervisorx3{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.HyperVHypervisorx4{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.HyperVHypervisorx5{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.HyperVHypervisorx6{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.HyperVHypervisorx7{fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.HyperVHypervisorx8{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.HyperVHypervisorx9{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.HyperVHypervisorx10{fill:#F9BB16;}
+	.HyperVHypervisorx11{fill:#EA4435;}
+	.HyperVHypervisorx12{fill:#2FA952;}
+	.HyperVHypervisorx13{fill:#547DBF;}
+	.HyperVHypervisorx14{font-family:'MyriadPro-Regular';}
+	.HyperVHypervisorx15{font-size:20.3992px;}
+	.HyperVHypervisorx16{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.HyperVHypervisorx17{stroke:#000000;stroke-miterlimit:10;}
+	.HyperVHypervisorx18{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.HyperVHypervisorx19{fill:none;stroke:#020202;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+	<g>
+		<g>
+			<polygon class="HyperVHypervisorx8" points="25.12,63.35 25.12,53.43 37.08,51.87 37.08,63.35 			"/>
+			<polygon class="HyperVHypervisorx8" points="21.97,53.66 12.67,54.87 12.67,63.35 21.97,63.35 			"/>
+			<polygon class="HyperVHypervisorx8" points="21.97,74.95 12.67,74.15 12.67,66.16 21.97,66.16 			"/>
+			<polygon class="HyperVHypervisorx8" points="25.12,75.11 37.08,76.13 37.08,66.16 25.12,66.16 			"/>
+			<line class="HyperVHypervisorx8" x1="37.08" y1="63.35" x2="25.12" y2="63.35"/>
+		</g>
+		<text transform="matrix(1 0 0 1 46.3649 69.9873)" class="HyperVHypervisorx14 HyperVHypervisorx15">Hyper-V</text>
+	</g>
+</g>
+<g id="Layer_2">
+</g>
+</svg>

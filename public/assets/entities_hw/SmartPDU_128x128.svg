@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.SmartPDUx0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.SmartPDUx1{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.SmartPDUx2{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.SmartPDUx3{stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.SmartPDUx4{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.SmartPDUx5{stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.SmartPDUx6{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+</style>
+<g>
+	<rect x="4" y="51" class="SmartPDUx0" width="120" height="25.9"/>
+	<rect x="12.2" y="57.6" class="SmartPDUx2" width="8.2" height="12.9"/>
+	<rect x="27.2" y="57.6" class="SmartPDUx2" width="8.2" height="12.9"/>
+	<rect x="42.2" y="57.6" class="SmartPDUx2" width="8.2" height="12.9"/>
+	<rect x="57.2" y="57.6" class="SmartPDUx2" width="8.2" height="12.9"/>
+	<rect x="72.2" y="57.6" class="SmartPDUx2" width="8.2" height="12.9"/>
+	<rect x="87.9" y="60.6" class="SmartPDUx2" width="27.3" height="6.8"/>
+</g>
+</svg>

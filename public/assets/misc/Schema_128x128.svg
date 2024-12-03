@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.Schemax0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.Schemax1{stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.Schemax2{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.Schemax3{stroke:#000000;stroke-miterlimit:10;}
+</style>
+<path class="Schemax0" d="M64,124L64,124C30.86,124,4,97.14,4,64v0C4,30.86,30.86,4,64,4h0c33.14,0,60,26.86,60,60v0
+	C124,97.14,97.14,124,64,124z"/>
+<g>
+	<g>
+		<path class="Schemax1" d="M73.39,23.13v2.08h-18.9v-2.08c0-1.74,1.41-3.14,3.14-3.14h12.62C71.98,19.99,73.39,21.39,73.39,23.13z"/>
+		<path class="Schemax0" d="M73.39,25.21v12.03c0,1.74-1.41,3.14-3.14,3.14H57.63c-1.74,0-3.14-1.41-3.14-3.14V25.21H73.39z"/>
+	</g>
+	<g>
+		<path class="Schemax1" d="M73.45,52.73v2.08h-18.9v-2.08c0-1.74,1.41-3.14,3.14-3.14h12.62C72.04,49.59,73.45,50.99,73.45,52.73z"/>
+		<path class="Schemax0" d="M73.45,54.81v12.03c0,1.74-1.41,3.14-3.14,3.14H57.69c-1.74,0-3.14-1.41-3.14-3.14V54.81H73.45z"/>
+	</g>
+	<g>
+		<path class="Schemax1" d="M102.18,52.73v2.08h-18.9v-2.08c0-1.74,1.41-3.14,3.14-3.14h12.62C100.77,49.59,102.18,50.99,102.18,52.73z"
+			/>
+		<path class="Schemax0" d="M102.18,54.81v12.03c0,1.74-1.41,3.14-3.14,3.14H86.42c-1.74,0-3.14-1.41-3.14-3.14V54.81H102.18z"/>
+	</g>
+	<g>
+		<path class="Schemax1" d="M44.72,52.73v2.08h-18.9v-2.08c0-1.74,1.41-3.14,3.14-3.14h12.62C43.31,49.59,44.72,50.99,44.72,52.73z"/>
+		<path class="Schemax0" d="M44.72,54.81v12.03c0,1.74-1.41,3.14-3.14,3.14H28.96c-1.74,0-3.14-1.41-3.14-3.14V54.81H44.72z"/>
+	</g>
+	<g>
+		<path class="Schemax1" d="M44.72,82.58v2.08h-18.9v-2.08c0-1.74,1.41-3.14,3.14-3.14h12.62C43.31,79.44,44.72,80.84,44.72,82.58z"/>
+		<path class="Schemax0" d="M44.72,84.66v12.03c0,1.74-1.41,3.14-3.14,3.14H28.96c-1.74,0-3.14-1.41-3.14-3.14V84.66H44.72z"/>
+	</g>
+	<line class="Schemax0" x1="34.77" y1="69.98" x2="34.77" y2="79.68"/>
+	<g>
+		<g>
+			<path class="Schemax1" d="M102.18,82.58v2.08h-18.9v-2.08c0-1.74,1.41-3.14,3.14-3.14h12.62C100.77,79.44,102.18,80.84,102.18,82.58z"
+				/>
+			<path class="Schemax0" d="M102.18,84.66v12.03c0,1.74-1.41,3.14-3.14,3.14H86.42c-1.74,0-3.14-1.41-3.14-3.14V84.66H102.18z"/>
+		</g>
+		<line class="Schemax0" x1="92.73" y1="69.98" x2="92.73" y2="79.68"/>
+	</g>
+	<line class="Schemax0" x1="63.94" y1="40.38" x2="63.94" y2="49.59"/>
+	<line class="Schemax0" x1="44.72" y1="60.03" x2="54.42" y2="60.03"/>
+	<line class="Schemax0" x1="73.58" y1="60.03" x2="83.28" y2="60.03"/>
+	<polyline class="Schemax0" points="63.93,69.98 63.93,89.63 83.28,89.63 	"/>
+</g>
+</svg>

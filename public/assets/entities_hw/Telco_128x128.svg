@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.Telcox0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.Telcox1{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.Telcox2{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.Telcox3{stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.Telcox4{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.Telcox5{stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.Telcox6{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+</style>
+<circle cx="64.1" cy="32.3" r="6.3"/>
+<g>
+	<g>
+		<path class="Telcox0" d="M88.1,60.1c4.7-3.7,8.4-8.6,10.7-14.2c1.6-4,2.5-8.4,2.5-13c0-4.8-1-9.3-2.7-13.5C96.2,13.8,92.4,9,87.7,5.4"
+			/>
+		<path class="Telcox0" d="M80.3,51c5.5-4.1,9-10.7,9-18.1c0-7.6-3.8-14.4-9.5-18.5"/>
+		<path class="Telcox0" d="M72.4,41.9c2.9-1.9,4.9-5.2,4.9-9c0-4-2.2-7.6-5.5-9.4"/>
+	</g>
+	<g>
+		<path class="Telcox0" d="M40.3,5.4c-4.7,3.6-8.5,8.5-10.9,14.1c-1.7,4.1-2.7,8.7-2.7,13.5c0,4.6,0.9,9,2.5,13
+			c2.3,5.6,6,10.5,10.7,14.2"/>
+		<path class="Telcox0" d="M48.3,14.4c-5.8,4.1-9.5,10.9-9.5,18.5c0,7.4,3.5,14,9,18.1"/>
+		<path class="Telcox0" d="M56.2,23.5c-3.3,1.8-5.5,5.3-5.5,9.4c0,3.8,2,7.1,4.9,9"/>
+	</g>
+</g>
+<g>
+	<line class="Telcox0" x1="63.8" y1="31.3" x2="33.2" y2="125.4"/>
+	<line class="Telcox0" x1="63.8" y1="31.3" x2="33.2" y2="125.4"/>
+	<line class="Telcox0" x1="94.8" y1="125.4" x2="64.2" y2="31.3"/>
+	<line class="Telcox0" x1="51.8" y1="66.2" x2="75.8" y2="66.2"/>
+	<line class="Telcox0" x1="44.8" y1="89.4" x2="83.2" y2="89.4"/>
+	<line class="Telcox0" x1="37.8" y1="111.3" x2="90.2" y2="111.3"/>
+</g>
+</svg>

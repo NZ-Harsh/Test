@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.TaskQueuex0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.TaskQueuex1{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.TaskQueuex2{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:21.3333;}
+	.TaskQueuex3{fill:#FFFFFF;fill-opacity:0;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.TaskQueuex4{fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+	.TaskQueuex5{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.TaskQueuex6{fill:none;stroke:#010101;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="TaskQueuex1" d="M91.8,75.3H37c-2.4,0-4.4-2-4.4-4.4V56.6c0-2.4,2-4.4,4.4-4.4h54.9c2.4,0,4.4,2,4.4,4.4v14.3
+		C96.3,73.3,94.3,75.3,91.8,75.3z"/>
+	<path class="TaskQueuex1" d="M25.1,31.3h-9.5c-3.5,0-6.4-2.8-6.4-6.4v-9.5C9.2,11.8,12,9,15.5,9h9.5c3.5,0,6.4,2.8,6.4,6.4v9.5
+		C31.4,28.4,28.6,31.3,25.1,31.3z"/>
+	<path class="TaskQueuex1" d="M112.5,119h-9.5c-3.5,0-6.4-2.8-6.4-6.4v-9.5c0-3.5,2.8-6.4,6.4-6.4h9.5c3.5,0,6.4,2.8,6.4,6.4v9.5
+		C118.8,116.2,116,119,112.5,119z"/>
+	<polyline class="TaskQueuex1" points="96.3,63.8 107.5,63.8 107.5,78.3 	"/>
+	<polygon class="TaskQueuex1" points="107.5,80.1 111,80.1 109.3,83.1 107.5,86.1 105.8,83.1 104.1,80.1 	"/>
+	<polygon class="TaskQueuex1" points="44.4,34.5 47.9,34.5 46.2,37.5 44.4,40.5 42.7,37.5 40.9,34.5 	"/>
+	<polyline class="TaskQueuex1" points="33.1,19.4 44.4,19.4 44.4,33.9 	"/>
+	<line class="TaskQueuex1" x1="53.5" y1="52.2" x2="53.5" y2="75.3"/>
+	<line class="TaskQueuex1" x1="74.9" y1="52.2" x2="74.9" y2="75.3"/>
+</g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.InventoryConfigurationx0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.InventoryConfigurationx1{stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.InventoryConfigurationx2{fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.InventoryConfigurationx3{fill:none;stroke:#FF0000;stroke-width:5;stroke-miterlimit:10;}
+	.InventoryConfigurationx4{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.InventoryConfigurationx5{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<g>
+	<circle class="InventoryConfigurationx0" cx="92.97" cy="75.2" r="9.92"/>
+	<g>
+		<path class="InventoryConfigurationx0" d="M87.15,91.39c0.7,0.29,1.22,0.91,1.38,1.65l0.52,2.38c0.39,1.49,1.17,2.53,2.66,2.66h2.53
+			c1.49-0.13,2.27-1.17,2.66-2.66l0.52-2.38c0.16-0.74,0.68-1.36,1.38-1.65l1.51-0.63c0.7-0.29,1.51-0.22,2.15,0.19l2.05,1.31
+			c1.33,0.78,2.61,0.96,3.76,0l1.79-1.79c0.96-1.15,0.78-2.43,0-3.76l-1.31-2.05c-0.41-0.64-0.48-1.44-0.19-2.15l0.63-1.51
+			c0.29-0.7,0.91-1.22,1.65-1.38l2.38-0.52c1.49-0.39,2.53-1.17,2.66-2.66v-2.53c-0.13-1.49-1.17-2.27-2.66-2.66l-2.38-0.52
+			c-0.74-0.16-1.36-0.68-1.65-1.38l-0.63-1.51c-0.29-0.7-0.22-1.51,0.19-2.15l1.31-2.05c0.78-1.33,0.96-2.61,0-3.76l-1.79-1.79
+			c-1.15-0.96-2.43-0.78-3.76,0l-2.05,1.31c-0.64,0.41-1.44,0.48-2.15,0.19L98.8,59c-0.7-0.29-1.22-0.91-1.38-1.65l-0.52-2.38
+			c-0.39-1.49-1.17-2.53-2.66-2.66h-2.53c-1.49,0.13-2.27,1.17-2.66,2.66l-0.52,2.38c-0.16,0.74-0.68,1.36-1.38,1.65l-1.51,0.63
+			c-0.7,0.29-1.51,0.22-2.15-0.19l-2.05-1.31c-1.33-0.78-2.61-0.96-3.76,0l-1.79,1.79c-0.96,1.15-0.78,2.43,0,3.76l1.31,2.05
+			c0.41,0.64,0.48,1.44,0.19,2.15l-0.63,1.51c-0.29,0.7-0.91,1.22-1.65,1.38l-2.38,0.52c-1.49,0.39-2.53,1.17-2.66,2.66v2.53
+			c0.13,1.49,1.17,2.27,2.66,2.66l2.38,0.52c0.74,0.16,1.36,0.68,1.65,1.38l0.63,1.51c0.29,0.7,0.22,1.51-0.19,2.15l-1.31,2.05
+			c-0.78,1.33-0.96,2.61,0,3.76l1.79,1.79c1.15,0.96,2.43,0.78,3.76,0l2.05-1.31c0.64-0.41,1.44-0.48,2.15-0.19L87.15,91.39z"/>
+	</g>
+</g>
+<rect x="4" y="8.35" class="InventoryConfigurationx0" width="120" height="19.5"/>
+<rect x="6.4" y="27.85" class="InventoryConfigurationx0" width="115.2" height="91.8"/>
+<line class="InventoryConfigurationx0" x1="43.9" y1="42.55" x2="84.1" y2="42.55"/>
+<line class="InventoryConfigurationx0" x1="17.3" y1="109.75" x2="65.9" y2="109.75"/>
+<line class="InventoryConfigurationx0" x1="17.6" y1="99.55" x2="66.2" y2="99.55"/>
+<line class="InventoryConfigurationx0" x1="17.9" y1="89.35" x2="66.5" y2="89.35"/>
+<line class="InventoryConfigurationx0" x1="18.2" y1="79.15" x2="66.8" y2="79.15"/>
+<line class="InventoryConfigurationx0" x1="18.5" y1="68.95" x2="53.46" y2="68.95"/>
+</svg>

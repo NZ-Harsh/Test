@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.Cablingx0{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.Cablingx1{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.Cablingx2{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.Cablingx3{fill:none;stroke:#010101;stroke-width:3;stroke-miterlimit:10;}
+	.Cablingx4{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;}
+	.Cablingx5{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.Cablingx6{fill:none;stroke:#010101;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.Cablingx7{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.Cablingx8{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.Cablingx9{fill:none;stroke:#010101;stroke-width:4;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="Cablingx7" d="M23.93,48.06v43.41c0,13.51,10,24.45,22.34,24.45c12.32,0,22.33-10.94,22.33-24.45v-2.56V39.07
+		c0-6.74,2.49-12.85,6.54-17.28c4.03-4.42,9.61-7.15,15.78-7.15c12.32,0,22.3,10.94,22.3,24.43v32.54"/>
+	<g>
+		<path class="Cablingx8" d="M4,16.88v8.94c0,4.94,4,8.94,8.94,8.94h-0.51v13.29h23V34.77h-0.51c4.94,0,8.94-4,8.94-8.94v-8.94H4z"/>
+		<g>
+			<line class="Cablingx7" x1="16.01" y1="16.88" x2="16.01" y2="5.13"/>
+			<line class="Cablingx7" x1="31.85" y1="16.88" x2="31.85" y2="5.13"/>
+		</g>
+	</g>
+	<g>
+		<rect x="102.45" y="71.61" class="Cablingx7" width="21.55" height="33.79"/>
+		<line class="Cablingx7" x1="113.22" y1="122.87" x2="113.22" y2="105.13"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.PowerThermalx0{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.PowerThermalx1{fill:none;stroke:#020202;stroke-width:5;stroke-miterlimit:10;}
+	.PowerThermalx2{fill:none;stroke:#020202;stroke-width:3;stroke-miterlimit:10;}
+	.PowerThermalx3{fill:none;stroke:#010101;stroke-width:3;stroke-miterlimit:10;}
+	.PowerThermalx4{fill:#010101;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.PowerThermalx5{fill:none;stroke:#020202;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.PowerThermalx6{fill:none;stroke:#020202;stroke-width:2;stroke-miterlimit:10;}
+	.PowerThermalx7{fill:none;stroke:#010101;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.PowerThermalx8{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.PowerThermalx9{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.PowerThermalx10{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.PowerThermalx11{fill:none;stroke:#010101;stroke-width:2;stroke-miterlimit:10;}
+	.PowerThermalx12{fill:#020202;stroke:#020202;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="PowerThermalx10" d="M119.98,52.93L97.15,32.19c-1.69-1.53-3.87-2.38-6.15-2.38H37c-2.28,0-4.46,0.84-6.15,2.38L8.13,52.82
+		l-0.11,0.11C2.83,58.42,2.65,66.88,7.6,72.6l23.15,22.94c1.72,1.71,4.01,2.65,6.44,2.65h53.65c2.43,0,4.71-0.94,6.44-2.65
+		l23.04-22.82l0.11-0.11C125.35,66.87,125.17,58.42,119.98,52.93z"/>
+	<g>
+		<circle class="PowerThermalx10" cx="16.37" cy="62.96" r="4.09"/>
+		<path class="PowerThermalx10" d="M16.37,67.1c-2.28,0-4.14-1.86-4.14-4.14s1.86-4.14,4.14-4.14s4.14,1.86,4.14,4.14S18.65,67.1,16.37,67.1z
+			 M16.37,58.93c-2.23,0-4.04,1.81-4.04,4.04s1.81,4.04,4.04,4.04s4.04-1.81,4.04-4.04C20.41,60.74,18.59,58.93,16.37,58.93z"/>
+	</g>
+	<g>
+		<circle class="PowerThermalx10" cx="112.32" cy="62.96" r="4.09"/>
+		<path class="PowerThermalx10" d="M112.32,67.1c-2.28,0-4.14-1.86-4.14-4.14s1.86-4.14,4.14-4.14s4.14,1.86,4.14,4.14S114.6,67.1,112.32,67.1z
+			 M112.32,58.93c-2.23,0-4.04,1.81-4.04,4.04s1.81,4.04,4.04,4.04s4.04-1.81,4.04-4.04C116.35,60.74,114.54,58.93,112.32,58.93z"/>
+	</g>
+	<path class="PowerThermalx10" d="M86.41,84.1H41.59c-2.68,0-4.86-2.18-4.86-4.86v-30.5c0-2.68,2.18-4.86,4.86-4.86h44.83
+		c2.68,0,4.86,2.18,4.86,4.86v30.51C91.27,81.93,89.1,84.1,86.41,84.1z"/>
+	<line class="PowerThermalx10" x1="49" y1="51.72" x2="49" y2="68.08"/>
+	<line class="PowerThermalx10" x1="79" y1="51.72" x2="79" y2="68.08"/>
+	<line class="PowerThermalx10" x1="64" y1="59.9" x2="64" y2="76.26"/>
+</g>
+</svg>

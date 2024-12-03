@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.CheeseBurgerx0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.CheeseBurgerx1{stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<g>
+	<line class="CheeseBurgerx0" x1="4" y1="64" x2="124" y2="64"/>
+	<line class="CheeseBurgerx0" x1="4" y1="32" x2="124" y2="32"/>
+	<line class="CheeseBurgerx0" x1="4" y1="96" x2="124" y2="96"/>
+	<polygon class="CheeseBurgerx1" points="32.8,64 43.5,64 38.2,73.3 32.8,82.7 27.4,73.3 22,64 	"/>
+</g>
+</svg>

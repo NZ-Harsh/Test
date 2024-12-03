@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.ImportEntitiesx0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.ImportEntitiesx1{stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.ImportEntitiesx2{fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.ImportEntitiesx3{fill:none;stroke:#FF0000;stroke-width:5;stroke-miterlimit:10;}
+	.ImportEntitiesx4{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.ImportEntitiesx5{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.ImportEntitiesx6{fill:none;stroke:#231F20;stroke-width:5;stroke-miterlimit:10;}
+	.ImportEntitiesx7{fill:none;stroke:#231F20;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<line class="ImportEntitiesx0" x1="63.2" y1="73.78" x2="63.2" y2="39.74"/>
+		<polyline class="ImportEntitiesx0" points="76.04,63 63.2,73.78 51.96,63.49 		"/>
+	</g>
+	<path class="ImportEntitiesx0" d="M102.71,118.95H25.29c-5.33,0-9.64-4.32-9.64-9.64V18.69c0-5.33,4.32-9.64,9.64-9.64h77.41
+		c5.33,0,9.64,4.32,9.64,9.64v90.61C112.35,114.63,108.03,118.95,102.71,118.95z"/>
+	<line class="ImportEntitiesx0" x1="15.65" y1="32.35" x2="112.35" y2="32.35"/>
+	<line class="ImportEntitiesx0" x1="30.81" y1="84.49" x2="97.19" y2="84.49"/>
+	<line class="ImportEntitiesx0" x1="30.81" y1="95.61" x2="97.19" y2="95.61"/>
+	<line class="ImportEntitiesx0" x1="30.81" y1="106.73" x2="97.19" y2="106.73"/>
+</g>
+</svg>

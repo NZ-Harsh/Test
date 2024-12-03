@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.FloorPDUx0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.FloorPDUx1{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.FloorPDUx2{stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.FloorPDUx3{stroke:#000000;stroke-miterlimit:10;}
+	.FloorPDUx4{stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.FloorPDUx5{fill:none;stroke:#FF0000;stroke-width:5;stroke-miterlimit:10;}
+	.FloorPDUx6{fill:#FF0000;}
+	.FloorPDUx7{fill:none;stroke:#FF0000;stroke-width:3;stroke-miterlimit:10;}
+	.FloorPDUx8{fill:none;stroke:#006837;stroke-width:5;stroke-miterlimit:10;}
+	.FloorPDUx9{fill:none;stroke:#006837;stroke-width:3;stroke-miterlimit:10;}
+	.FloorPDUx10{fill:none;stroke:#0070C0;stroke-width:5;stroke-miterlimit:10;}
+	.FloorPDUx11{fill:none;stroke:#0070C0;stroke-width:3;stroke-miterlimit:10;}
+	.FloorPDUx12{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.FloorPDUx13{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.FloorPDUx14{fill:#0070C0;stroke:#0070C0;stroke-width:5;stroke-miterlimit:10;}
+	.FloorPDUx15{fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.FloorPDUx16{fill:none;stroke:#CC4C33;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<rect x="25.5" y="10" class="FloorPDUx0" width="77" height="106.5"/>
+<rect x="25.5" y="10" class="FloorPDUx0" width="77" height="70.5"/>
+<g>
+	<path class="FloorPDUx0" d="M40.8,10.4v40.2c0,12.1,10.4,22,23.2,22c12.8,0,23.2-9.9,23.2-22V10.4"/>
+</g>
+<rect x="70.9" y="91.2" class="FloorPDUx12" width="4.5" height="16"/>
+<rect x="61.8" y="91.2" class="FloorPDUx12" width="4.5" height="16"/>
+<rect x="52.6" y="91.2" class="FloorPDUx12" width="4.5" height="16"/>
+<g>
+	<path class="FloorPDUx13" d="M74.7,35.1H53.3V18.2h21.4V35.1z M57.8,30.7h12.5v-8H57.8V30.7z"/>
+</g>
+<g>
+	<path class="FloorPDUx13" d="M64,61.8c-5.6,0-10.2-4.6-10.2-10.2S58.4,41.4,64,41.4S74.2,46,74.2,51.6S69.6,61.8,64,61.8z M64,45.8
+		c-3.2,0-5.8,2.6-5.8,5.8s2.6,5.8,5.8,5.8s5.8-2.6,5.8-5.8S67.2,45.8,64,45.8z"/>
+</g>
+<line class="FloorPDUx14" x1="4" y1="116.6" x2="124" y2="116.6"/>
+</svg>

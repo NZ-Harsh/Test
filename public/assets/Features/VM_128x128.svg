@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.VMx0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.VMx1{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.VMx2{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.VMx3{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.VMx4{stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<path class="VMx0" d="M117.4,96.4H10.6c-3.6,0-6.6-3-6.6-6.6V20.3c0-3.6,3-6.6,6.6-6.6h106.8c3.6,0,6.6,3,6.6,6.6v69.5
+	C124,93.5,121,96.4,117.4,96.4z"/>
+<line class="VMx0" x1="64" y1="114.3" x2="64" y2="96.9"/>
+<line class="VMx0" x1="94.7" y1="114.3" x2="31.6" y2="114.3"/>
+<g>
+	<polygon class="VMx2" points="41.8,36.5 61.5,27.2 82.2,36.5 62,48.5 	"/>
+	<polygon class="VMx2" points="40.2,46.4 40.2,68.4 59.1,80.5 59.1,57.5 	"/>
+	<polygon class="VMx2" points="87.8,46.4 87.8,68.4 68.9,80.5 68.9,57.5 	"/>
+</g>
+</svg>

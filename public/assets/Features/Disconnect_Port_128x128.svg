@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.DisconnectPortx0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.DisconnectPortx1{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.DisconnectPortx2{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DisconnectPortx3{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<g>
+	<line class="DisconnectPortx1" x1="31.36" y1="31.36" x2="96.64" y2="96.64"/>
+	<path class="DisconnectPortx1" d="M57.26,38.59l14.25-14.25c8.87-8.87,23.27-8.87,32.15,0c4.44,4.44,6.67,10.26,6.66,16.08
+		c0,5.81-2.22,11.64-6.65,16.07L89.41,70.75"/>
+	<path class="DisconnectPortx1" d="M70.75,89.41L56.5,103.65c-8.88,8.88-23.28,8.88-32.16,0c-8.87-8.87-8.87-23.27,0.01-32.15L38.6,57.25"/>
+</g>
+</svg>

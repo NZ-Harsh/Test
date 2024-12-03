@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.ExportPowerCablesx0{fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.ExportPowerCablesx1{fill:none;stroke:#010101;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.ExportPowerCablesx2{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.ExportPowerCablesx3{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.ExportPowerCablesx4{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.ExportPowerCablesx5{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.ExportPowerCablesx6{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.ExportPowerCablesx7{fill:none;stroke:#020202;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.ExportPowerCablesx8{fill:none;stroke:#020202;stroke-width:5;stroke-miterlimit:10;}
+	.ExportPowerCablesx9{fill:none;stroke:#020202;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.ExportPowerCablesx10{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.ExportPowerCablesx11{fill:none;stroke:#010101;stroke-miterlimit:10;}
+	.ExportPowerCablesx12{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.ExportPowerCablesx13{fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<g>
+		<g>
+			<polyline class="ExportPowerCablesx1" points="88.97,33.87 63.79,9.61 39.03,33.59 			"/>
+			<line class="ExportPowerCablesx1" x1="63.79" y1="10.2" x2="63.79" y2="100.37"/>
+		</g>
+		<path class="ExportPowerCablesx2" d="M124,104.45c0,7.7-6.24,13.94-13.94,13.94H17.94c-7.7,0-13.94-6.24-13.94-13.94"/>
+		<g>
+			<line class="ExportPowerCablesx2" x1="102.3" y1="91.34" x2="102.3" y2="25.23"/>
+			<g>
+				<path class="ExportPowerCablesx2" d="M96.46,12.66h11.68v8.27c0,2.3-1.86,4.16-4.16,4.16h-3.35c-2.3,0-4.16-1.86-4.16-4.16L96.46,12.66
+					L96.46,12.66z"/>
+				<line class="ExportPowerCablesx2" x1="111" y1="12.66" x2="93.6" y2="12.66"/>
+				<g>
+					<line class="ExportPowerCablesx2" x1="105.15" y1="12.7" x2="105.15" y2="8.14"/>
+					<line class="ExportPowerCablesx2" x1="99.45" y1="12.7" x2="99.45" y2="8.14"/>
+				</g>
+			</g>
+			<g>
+				<path class="ExportPowerCablesx2" d="M108.14,103.91H96.46v-8.27c0-2.3,1.86-4.16,4.16-4.16h3.35c2.3,0,4.16,1.86,4.16,4.16L108.14,103.91
+					L108.14,103.91z"/>
+				<line class="ExportPowerCablesx2" x1="93.6" y1="103.91" x2="111" y2="103.91"/>
+				<g>
+					<line class="ExportPowerCablesx2" x1="99.45" y1="103.87" x2="99.45" y2="108.43"/>
+					<line class="ExportPowerCablesx2" x1="105.15" y1="103.87" x2="105.15" y2="108.43"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

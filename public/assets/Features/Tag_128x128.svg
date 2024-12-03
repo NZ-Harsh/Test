@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.RFIDTagx0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.RFIDTagx1{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.RFIDTagx2{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.RFIDTagx3{stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.RFIDTagx4{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.RFIDTagx5{stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.RFIDTagx6{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+</style>
+<g>
+	<polygon class="RFIDTagx0" points="40.59,4 123.94,4 123.94,124 4.06,124 4.06,40.62 	"/>
+	<polyline class="RFIDTagx0" points="64,64 96.65,64 96.65,30.99 54.64,30.99 31.96,52.41 31.96,96.69 123.94,96.69 	"/>
+	<rect x="54.14" y="53.95" class="RFIDTagx5" width="20.99" height="20.99"/>
+</g>
+</svg>

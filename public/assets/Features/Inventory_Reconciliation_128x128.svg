@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.InventoryReconciliationx0{fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.InventoryReconciliationx1{fill:none;stroke:#010101;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.InventoryReconciliationx2{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.InventoryReconciliationx3{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.InventoryReconciliationx4{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.InventoryReconciliationx5{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.InventoryReconciliationx6{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.InventoryReconciliationx7{fill:none;stroke:#020202;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.InventoryReconciliationx8{fill:none;stroke:#020202;stroke-width:5;stroke-miterlimit:10;}
+	.InventoryReconciliationx9{fill:none;stroke:#020202;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.InventoryReconciliationx10{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.InventoryReconciliationx11{fill:none;stroke:#010101;stroke-miterlimit:10;}
+	.InventoryReconciliationx12{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.InventoryReconciliationx13{fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<g>
+		<rect x="4" y="8.35" class="InventoryReconciliationx2" width="120" height="19.5"/>
+		<rect x="6.4" y="27.85" class="InventoryReconciliationx2" width="115.2" height="91.8"/>
+		<g>
+			<path class="InventoryReconciliationx2" d="M41.48,40.08c-6.24,0-11.31,5.06-11.31,11.31c0,6.24,5.06,11.31,11.31,11.31h11.31V51.39
+				C52.79,45.14,47.73,40.08,41.48,40.08z"/>
+			<path class="InventoryReconciliationx2" d="M86.52,40.08c6.24,0,11.31,5.06,11.31,11.31c0,6.24-5.06,11.31-11.31,11.31H75.21V51.39
+				C75.21,45.14,80.27,40.08,86.52,40.08z"/>
+			<path class="InventoryReconciliationx2" d="M41.48,107.92c-6.24,0-11.31-5.06-11.31-11.31c0-6.24,5.06-11.31,11.31-11.31h11.31v11.31
+				C52.79,102.86,47.73,107.92,41.48,107.92z"/>
+			<path class="InventoryReconciliationx2" d="M86.52,107.92c6.24,0,11.31-5.06,11.31-11.31c0-6.24-5.06-11.31-11.31-11.31H75.21v11.31
+				C75.21,102.86,80.27,107.92,86.52,107.92z"/>
+			<line class="InventoryReconciliationx2" x1="52.79" y1="62.69" x2="75.21" y2="62.69"/>
+			<line class="InventoryReconciliationx2" x1="52.79" y1="85.31" x2="75.21" y2="85.31"/>
+			<line class="InventoryReconciliationx2" x1="52.69" y1="85.21" x2="52.69" y2="62.79"/>
+			<line class="InventoryReconciliationx2" x1="75.31" y1="85.21" x2="75.31" y2="62.79"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.ReviewPowerCablingx0{fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.ReviewPowerCablingx1{fill:none;stroke:#010101;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.ReviewPowerCablingx2{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.ReviewPowerCablingx3{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.ReviewPowerCablingx4{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.ReviewPowerCablingx5{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.ReviewPowerCablingx6{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.ReviewPowerCablingx7{fill:none;stroke:#020202;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.ReviewPowerCablingx8{fill:none;stroke:#020202;stroke-width:5;stroke-miterlimit:10;}
+	.ReviewPowerCablingx9{fill:none;stroke:#020202;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.ReviewPowerCablingx10{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.ReviewPowerCablingx11{fill:none;stroke:#010101;stroke-miterlimit:10;}
+	.ReviewPowerCablingx12{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.ReviewPowerCablingx13{fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<g>
+		<g>
+			<line class="ReviewPowerCablingx2" x1="24.45" y1="64" x2="103.55" y2="64"/>
+			<g>
+				<path class="ReviewPowerCablingx2" d="M118.59,57.01v13.98h-9.89c-2.75,0-4.98-2.23-4.98-4.98V62c0-2.75,2.23-4.98,4.98-4.98L118.59,57.01
+					L118.59,57.01z"/>
+				<line class="ReviewPowerCablingx2" x1="118.59" y1="74.41" x2="118.59" y2="53.59"/>
+				<g>
+					<line class="ReviewPowerCablingx2" x1="118.55" y1="67.41" x2="124" y2="67.41"/>
+					<line class="ReviewPowerCablingx2" x1="118.55" y1="60.59" x2="124" y2="60.59"/>
+				</g>
+			</g>
+			<g>
+				<path class="ReviewPowerCablingx2" d="M9.41,70.99V57.01h9.89c2.75,0,4.98,2.23,4.98,4.98V66c0,2.75-2.23,4.98-4.98,4.98L9.41,70.99L9.41,70.99z"
+					/>
+				<line class="ReviewPowerCablingx2" x1="9.41" y1="53.59" x2="9.41" y2="74.41"/>
+				<g>
+					<line class="ReviewPowerCablingx2" x1="9.45" y1="60.59" x2="4" y2="60.59"/>
+					<line class="ReviewPowerCablingx2" x1="9.45" y1="67.41" x2="4" y2="67.41"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<circle class="ReviewPowerCablingx6" cx="59.87" cy="63.78" r="13.35"/>
+			<line class="ReviewPowerCablingx6" x1="69.06" y1="73.47" x2="81.48" y2="86.39"/>
+		</g>
+	</g>
+</g>
+</svg>

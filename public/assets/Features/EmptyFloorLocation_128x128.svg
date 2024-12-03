@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.EmptyFloorLocationx0{fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.EmptyFloorLocationx1{fill:none;stroke:#010101;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.EmptyFloorLocationx2{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.EmptyFloorLocationx3{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.EmptyFloorLocationx4{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.EmptyFloorLocationx5{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.EmptyFloorLocationx6{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.EmptyFloorLocationx7{fill:none;stroke:#020202;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.EmptyFloorLocationx8{fill:none;stroke:#020202;stroke-width:5;stroke-miterlimit:10;}
+	.EmptyFloorLocationx9{fill:none;stroke:#020202;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.EmptyFloorLocationx10{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.EmptyFloorLocationx11{fill:none;stroke:#010101;stroke-miterlimit:10;}
+	.EmptyFloorLocationx12{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.EmptyFloorLocationx13{fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<g>
+		<g>
+			<path d="M87.28,120.8l12.84-16.4L88.49,89.38h8.87l7.54,10.1l7.38-10.1h8.79l-11.69,15.26l12.84,16.16h-9.15l-8.33-10.87
+				l-8.36,10.87H87.28z"/>
+		</g>
+		<g>
+			<path class="EmptyFloorLocationx5" d="M64,17.07c-2.43-0.02-4.86,0.21-7.25,0.72c-12.07,2.54-22.47,11.83-26.38,23.52
+				c-1.95,5.81-2.35,12.18-0.83,18.12c1.86,7.27,6.42,13.51,10.87,19.55c7.86,10.65,15.73,21.3,23.59,31.95
+				c7.86-10.65,15.73-21.3,23.59-31.95c4.46-6.04,9.02-12.28,10.87-19.55c1.52-5.94,1.11-12.31-0.83-18.12
+				c-3.91-11.69-14.31-20.98-26.38-23.52C68.86,17.29,66.43,17.05,64,17.07z"/>
+			<circle class="EmptyFloorLocationx5" cx="64" cy="50.95" r="26.03"/>
+		</g>
+	</g>
+</g>
+</svg>

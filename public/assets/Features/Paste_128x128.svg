@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.Pastex0{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.Pastex1{fill:none;stroke:#010101;stroke-width:3;stroke-miterlimit:10;}
+	.Pastex2{fill:#010101;stroke:#010101;stroke-miterlimit:10;}
+	.Pastex3{fill:#010101;}
+	.Pastex4{fill:#010101;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.Pastex5{fill:none;stroke:#010101;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<g>
+			<path class="Pastex0" d="M124,83.1v33.56c0,2.99-2.42,5.41-5.41,5.41H44.98c-2.99,0-5.41-2.42-5.41-5.41V66.86
+				c0-2.99,2.42-5.41,5.41-5.41h57.37L124,83.1z"/>
+			<line class="Pastex0" x1="86.66" y1="111.78" x2="86.66" y2="70.65"/>
+			<line class="Pastex0" x1="70.42" y1="111.78" x2="70.42" y2="70.65"/>
+			<line class="Pastex0" x1="54.18" y1="111.78" x2="54.18" y2="70.65"/>
+		</g>
+		<polyline class="Pastex0" points="102.2,61.45 102.2,83.1 124,83.1 		"/>
+	</g>
+	<path class="Pastex0" d="M87.74,23.31h20.02c7.27,0,13.16,5.9,13.16,13.17v43.53"/>
+	<path class="Pastex0" d="M37.18,23.31H17.16C9.89,23.31,4,29.21,4,36.48v62.15c0,7.27,5.89,13.16,13.16,13.16h22.4"/>
+	<path class="Pastex0" d="M37.18,37.53H26.12v9.48H98.8v-9.48H87.74V23.31V12.45c0-3.6-2.92-6.52-6.52-6.52H43.7
+		c-3.6,0-6.52,2.92-6.52,6.52v10.85V37.53z"/>
+</g>
+</svg>

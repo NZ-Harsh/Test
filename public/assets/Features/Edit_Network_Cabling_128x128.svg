@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.EditNetworkCablingx0{fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.EditNetworkCablingx1{fill:none;stroke:#010101;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.EditNetworkCablingx2{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.EditNetworkCablingx3{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.EditNetworkCablingx4{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.EditNetworkCablingx5{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.EditNetworkCablingx6{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.EditNetworkCablingx7{fill:none;stroke:#020202;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.EditNetworkCablingx8{fill:none;stroke:#020202;stroke-width:5;stroke-miterlimit:10;}
+	.EditNetworkCablingx9{fill:none;stroke:#020202;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.EditNetworkCablingx10{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.EditNetworkCablingx11{fill:none;stroke:#010101;stroke-miterlimit:10;}
+	.EditNetworkCablingx12{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.EditNetworkCablingx13{fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<g>
+		<g>
+			<g>
+				<rect x="8.09" y="43.21" class="EditNetworkCablingx2" width="16.36" height="9.72"/>
+				<rect x="4" y="43.98" class="EditNetworkCablingx2" width="4.09" height="8.18"/>
+			</g>
+			<g>
+				<rect x="103.55" y="43.21" class="EditNetworkCablingx2" width="16.36" height="9.72"/>
+				<rect x="119.91" y="43.97" class="EditNetworkCablingx2" width="4.09" height="8.18"/>
+			</g>
+			<line class="EditNetworkCablingx2" x1="24.45" y1="48.07" x2="103.55" y2="48.07"/>
+		</g>
+		<g>
+			<path class="EditNetworkCablingx6" d="M38.3,60.98l14.83,3.6l35.44,35.81c2.88,2.91,2.85,7.6-0.07,10.48l0,0c-2.85,2.81-7.41,2.84-10.3,0.08
+				L41.83,76.27l-4.54-15.29H38.3z"/>
+			<line class="EditNetworkCablingx6" x1="85.52" y1="97.3" x2="75.1" y2="107.99"/>
+			<path class="EditNetworkCablingx6" d="M53.13,64.58c0,0-1.13,9.56-11.3,11.69"/>
+		</g>
+	</g>
+</g>
+</svg>

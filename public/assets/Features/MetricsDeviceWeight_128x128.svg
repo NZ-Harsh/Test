@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.DeviceWeightx0{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DeviceWeightx1{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.DeviceWeightx2{fill:#F89A1F;stroke:#F89A1F;stroke-miterlimit:10;}
+	.DeviceWeightx3{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.DeviceWeightx4{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.DeviceWeightx5{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DeviceWeightx6{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DeviceWeightx7{fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DeviceWeightx8{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.DeviceWeightx9{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.DeviceWeightx10{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DeviceWeightx11{fill:#F9BB16;}
+	.DeviceWeightx12{fill:#EA4435;}
+	.DeviceWeightx13{fill:#2FA952;}
+	.DeviceWeightx14{fill:#547DBF;}
+	.DeviceWeightx15{stroke:#000000;stroke-miterlimit:10;}
+	.DeviceWeightx16{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.DeviceWeightx17{fill:none;stroke:#020202;stroke-width:5;stroke-miterlimit:10;}
+	.DeviceWeightx18{fill:none;stroke:#020202;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DeviceWeightx19{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
+	.DeviceWeightx20{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.DeviceWeightx21{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DeviceWeightx22{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.DeviceWeightx23{fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DeviceWeightx24{fill:#5469B0;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<rect x="28.55" y="11.98" class="DeviceWeightx16" width="70.91" height="20.83"/>
+	<rect x="28.55" y="41.39" class="DeviceWeightx16" width="70.91" height="18.67"/>
+	<polyline class="DeviceWeightx16" points="37.69,124 19.99,124 19.99,4 108.01,4 108.01,60.06 	"/>
+	<g>
+		<path class="DeviceWeightx4" d="M102.45,84.9H59.3c-3.07,0-5.56-2.49-5.56-5.56v-2.88h54.27v2.88C108.01,82.42,105.52,84.9,102.45,84.9z"/>
+		<rect x="68.35" y="84.9" class="DeviceWeightx4" width="25.05" height="6.74"/>
+		<path class="DeviceWeightx0" d="M98.35,124H63.4c-2.61,0-4.57-2.37-4.09-4.93L63.87,95c0.37-1.94,2.07-3.35,4.04-3.35h25.93
+			c1.98,0,3.68,1.41,4.04,3.35l4.55,24.07C102.92,121.63,100.96,124,98.35,124z"/>
+		<path class="DeviceWeightx0" d="M84.04,116.72h-6.33c-3.37,0-6.11-2.74-6.11-6.11v-6.33c0-3.37,2.74-6.11,6.11-6.11h6.33
+			c3.37,0,6.11,2.74,6.11,6.11v6.33C90.15,113.99,87.42,116.72,84.04,116.72z"/>
+		<line class="DeviceWeightx0" x1="80.88" y1="107.45" x2="84.82" y2="102.32"/>
+	</g>
+</g>
+</svg>

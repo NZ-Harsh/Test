@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.Recalculatex0{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.Recalculatex1{fill:none;stroke:#010101;stroke-width:3;stroke-miterlimit:10;}
+	.Recalculatex2{fill:#010101;stroke:#010101;stroke-miterlimit:10;}
+	.Recalculatex3{fill:#010101;}
+	.Recalculatex4{fill:#010101;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.Recalculatex5{fill:none;stroke:#010101;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="Recalculatex0" d="M10.18,50.53c6.07-25.38,28.9-44.24,56.11-44.24C98.17,6.29,124,32.13,124,64s-25.83,57.71-57.71,57.71
+		c-30.72,0-55.83-24.01-57.6-54.3"/>
+	<polyline class="Recalculatex0" points="4,33.18 10.18,50.52 27.52,45.59 	"/>
+	<path class="Recalculatex0" d="M88.49,100.7H39.79c-2.18,0-3.94-1.77-3.94-3.94v-65.5c0-2.18,1.77-3.94,3.94-3.94h48.69
+		c2.18,0,3.94,1.77,3.94,3.94v65.5C92.43,98.93,90.67,100.7,88.49,100.7z"/>
+	<rect x="48.03" y="39.63" class="Recalculatex0" width="33.05" height="10.64"/>
+	<g>
+		<line class="Recalculatex0" x1="44.53" y1="63.72" x2="58.54" y2="63.72"/>
+		<line class="Recalculatex0" x1="44.81" y1="75.48" x2="58.82" y2="75.48"/>
+		<line class="Recalculatex0" x1="45.09" y1="87.25" x2="59.1" y2="87.25"/>
+		<line class="Recalculatex0" x1="69.18" y1="63.72" x2="83.19" y2="63.72"/>
+		<line class="Recalculatex0" x1="69.46" y1="75.48" x2="83.47" y2="75.48"/>
+		<line class="Recalculatex0" x1="69.74" y1="87.25" x2="83.75" y2="87.25"/>
+	</g>
+</g>
+</svg>

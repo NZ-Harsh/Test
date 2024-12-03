@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.DeletefromLayoutx0{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.DeletefromLayoutx1{fill:none;stroke:#010101;stroke-width:3;stroke-miterlimit:10;}
+	.DeletefromLayoutx2{fill:none;stroke:#010101;stroke-width:2;stroke-miterlimit:10;}
+	.DeletefromLayoutx3{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.DeletefromLayoutx4{fill:#010101;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.DeletefromLayoutx5{fill:#010101;}
+</style>
+<g>
+	<polyline class="DeletefromLayoutx0" points="124,64.91 124,85.83 124,124 41.96,124 	"/>
+	<polyline class="DeletefromLayoutx0" points="77.47,4 77.47,4 4,4 4,60.48 4,124 19.91,124 	"/>
+	<line class="DeletefromLayoutx0" x1="4" y1="60.48" x2="41.35" y2="60.48"/>
+	<line class="DeletefromLayoutx0" x1="41.35" y1="33.85" x2="41.35" y2="87.11"/>
+	<polyline class="DeletefromLayoutx0" points="76.73,60.48 76.73,85.83 124,85.83 	"/>
+	<g>
+		<g>
+			<line class="DeletefromLayoutx0" x1="83.85" y1="9.65" x2="124" y2="9.65"/>
+		</g>
+		<line class="DeletefromLayoutx0" x1="95.21" y1="25.77" x2="112.64" y2="46.07"/>
+		<line class="DeletefromLayoutx0" x1="112.64" y1="25.77" x2="95.21" y2="46.07"/>
+		<path class="DeletefromLayoutx0" d="M115.65,56.17H92.2c-3,0-5.43-2.43-5.43-5.43V9.68h34.32v41.06C121.09,53.74,118.65,56.17,115.65,56.17z"/>
+		<polyline class="DeletefromLayoutx0" points="95.61,9.46 95.61,4 112.4,4 112.4,9.56 95.4,9.56 		"/>
+	</g>
+</g>
+</svg>

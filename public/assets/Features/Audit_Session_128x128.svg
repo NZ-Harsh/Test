@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.AuditSessionsx0{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.AuditSessionsx1{fill:none;stroke:#020202;stroke-width:5;stroke-miterlimit:10;}
+	.AuditSessionsx2{fill:none;stroke:#020202;stroke-width:3;stroke-miterlimit:10;}
+	.AuditSessionsx3{fill:none;stroke:#010101;stroke-width:3;stroke-miterlimit:10;}
+	.AuditSessionsx4{fill:#010101;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.AuditSessionsx5{fill:none;stroke:#020202;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.AuditSessionsx6{fill:none;stroke:#020202;stroke-width:2;stroke-miterlimit:10;}
+	.AuditSessionsx7{fill:none;stroke:#010101;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.AuditSessionsx8{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.AuditSessionsx9{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.AuditSessionsx10{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.AuditSessionsx11{fill:none;stroke:#010101;stroke-width:2;stroke-miterlimit:10;}
+	.AuditSessionsx12{fill:#020202;stroke:#020202;stroke-width:5;stroke-miterlimit:10;}
+	.AuditSessionsx13{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.AuditSessionsx14{fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.AuditSessionsx15{fill:none;stroke:#ED1C24;stroke-width:5;stroke-miterlimit:10;}
+	.AuditSessionsx16{fill:none;stroke:#ED1C24;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.AuditSessionsx17{fill:none;stroke:#F8981D;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<polyline class="AuditSessionsx0" points="83.8,32.66 91.66,24.07 83.8,15.79 	"/>
+	<polyline class="AuditSessionsx0" points="64.1,24.35 56.24,32.93 64.1,41.22 	"/>
+	<line class="AuditSessionsx0" x1="69.38" y1="24.07" x2="91.39" y2="24.07"/>
+	<line class="AuditSessionsx0" x1="78.52" y1="32.93" x2="56.5" y2="32.93"/>
+	<path class="AuditSessionsx13" d="M99.17,63V23.83V11.9c0-3.67-2.97-6.64-6.63-6.64H19.78c-3.66,0-6.63,2.97-6.63,6.64v85.64
+		c0,3.66,2.97,6.63,6.63,6.63h9.04h24.87"/>
+	<path class="AuditSessionsx13" d="M28.82,104.17v11.94c0,3.66,2.97,6.63,6.64,6.63h28.23"/>
+	<path class="AuditSessionsx13" d="M99.17,23.83h9.04c3.67,0,6.64,2.97,6.64,6.63V63"/>
+	<g>
+		<circle class="AuditSessionsx13" cx="82.22" cy="88.61" r="20.15"/>
+		<line class="AuditSessionsx13" x1="96.1" y1="103.24" x2="114.85" y2="122.74"/>
+	</g>
+	<line class="AuditSessionsx13" x1="22.66" y1="88.61" x2="49.43" y2="88.61"/>
+	<line class="AuditSessionsx13" x1="22.66" y1="73.05" x2="55.43" y2="73.05"/>
+	<line class="AuditSessionsx13" x1="22.66" y1="59.49" x2="69.43" y2="59.49"/>
+	<line class="AuditSessionsx14" x1="25.82" y1="44.61" x2="25.82" y2="23.83"/>
+	<line class="AuditSessionsx14" x1="35.32" y1="44.61" x2="35.32" y2="17.83"/>
+	<line class="AuditSessionsx14" x1="44.82" y1="44.61" x2="44.82" y2="29.83"/>
+</g>
+</svg>

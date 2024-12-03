@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.LocationLayoutx0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.LocationLayoutx1{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.LocationLayoutx2{fill:#FFFFFF;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.LocationLayoutx3{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.LocationLayoutx4{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.LocationLayoutx5{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;}
+	.LocationLayoutx6{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.LocationLayoutx7{fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<path class="LocationLayoutx0" d="M49.01,66.07h-35.3c-4.82,0-8.74-3.91-8.74-8.74v-42.1c0-4.82,3.91-8.74,8.74-8.74h35.3
+			c4.82,0,8.74,3.91,8.74,8.74v42.1C57.74,62.16,53.83,66.07,49.01,66.07z"/>
+		<path class="LocationLayoutx0" d="M50.07,121.5H13.22c-4.39,0-7.96-3.56-7.96-7.96V86.9c0-4.39,3.56-7.96,7.96-7.96h36.85
+			c4.39,0,7.96,3.56,7.96,7.96v26.64C58.02,117.94,54.46,121.5,50.07,121.5z"/>
+	</g>
+	<g>
+		<path class="LocationLayoutx0" d="M78.99,61.93h35.3c4.82,0,8.74,3.91,8.74,8.74v42.1c0,4.82-3.91,8.74-8.74,8.74h-35.3
+			c-4.82,0-8.74-3.91-8.74-8.74v-42.1C70.26,65.84,74.17,61.93,78.99,61.93z"/>
+		<path class="LocationLayoutx0" d="M77.93,6.5h36.85c4.39,0,7.96,3.56,7.96,7.96V41.1c0,4.39-3.56,7.96-7.96,7.96H77.93
+			c-4.39,0-7.96-3.56-7.96-7.96V14.46C69.98,10.06,73.54,6.5,77.93,6.5z"/>
+	</g>
+</g>
+</svg>

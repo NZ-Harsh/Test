@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.Capacityx0{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.Capacityx1{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.Capacityx2{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.Capacityx3{fill:none;stroke:#010101;stroke-width:3;stroke-miterlimit:10;}
+	.Capacityx4{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;}
+	.Capacityx5{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.Capacityx6{fill:none;stroke:#010101;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.Capacityx7{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.Capacityx8{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.Capacityx9{fill:none;stroke:#010101;stroke-width:4;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="Capacityx2" d="M83.02,91.27H44.98c-4.56,0-8.25-3.69-8.25-8.25V44.98c0-4.56,3.69-8.25,8.25-8.25h38.04
+		c4.56,0,8.25,3.69,8.25,8.25v38.04C91.27,87.58,87.58,91.27,83.02,91.27z"/>
+	<g>
+		<polyline class="Capacityx2" points="27.85,4 4.25,4 4.25,27.61 		"/>
+		<line class="Capacityx2" x1="31.16" y1="30.92" x2="4.25" y2="4"/>
+	</g>
+	<g>
+		<polyline class="Capacityx2" points="100.15,4 123.75,4 123.75,27.61 		"/>
+		<line class="Capacityx2" x1="96.84" y1="30.92" x2="123.75" y2="4"/>
+	</g>
+	<g>
+		<g>
+			<polyline class="Capacityx2" points="27.85,124 4.25,124 4.25,100.39 			"/>
+			<line class="Capacityx2" x1="31.16" y1="97.08" x2="4.25" y2="124"/>
+		</g>
+		<g>
+			<polyline class="Capacityx2" points="100.15,124 123.75,124 123.75,100.39 			"/>
+			<line class="Capacityx2" x1="96.84" y1="97.08" x2="123.75" y2="124"/>
+		</g>
+	</g>
+</g>
+</svg>

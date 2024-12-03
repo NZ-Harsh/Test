@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.SetPropertyx0{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.SetPropertyx1{fill:none;stroke:#010101;stroke-width:3;stroke-miterlimit:10;}
+	.SetPropertyx2{fill:#010101;stroke:#010101;stroke-miterlimit:10;}
+	.SetPropertyx3{fill:#010101;}
+	.SetPropertyx4{fill:#010101;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.SetPropertyx5{fill:none;stroke:#010101;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="SetPropertyx0" d="M105.53,4H22.47c-4.51,0-8.17,3.66-8.17,8.17V83.3v32.52c0,4.51,3.66,8.17,8.17,8.17h35.1h12.87h35.1
+		c4.51,0,8.17-3.66,8.17-8.17V83.3V12.17C113.71,7.66,110.05,4,105.53,4z"/>
+	<line class="SetPropertyx0" x1="50.36" y1="108.32" x2="97.86" y2="108.32"/>
+	<line class="SetPropertyx0" x1="50.36" y1="83.32" x2="97.86" y2="83.32"/>
+	<line class="SetPropertyx0" x1="50.36" y1="58.32" x2="97.86" y2="58.32"/>
+	<line class="SetPropertyx0" x1="50.36" y1="33.32" x2="97.86" y2="33.32"/>
+	<rect x="27.86" y="22.41" class="SetPropertyx0" width="10.91" height="10.91"/>
+	<rect x="27.86" y="47.41" class="SetPropertyx0" width="10.91" height="10.91"/>
+	<rect x="27.86" y="72.41" class="SetPropertyx0" width="10.91" height="10.91"/>
+	<rect x="27.86" y="97.41" class="SetPropertyx0" width="10.91" height="10.91"/>
+	<polyline class="SetPropertyx1" points="31.95,51.05 36.05,55.14 46.95,46.95 	"/>
+	<polyline class="SetPropertyx1" points="31.95,101.5 36.05,105.59 46.95,97.41 	"/>
+</g>
+</svg>

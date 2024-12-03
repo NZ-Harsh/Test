@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.TCPPortsx0{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.TCPPortsx1{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.TCPPortsx2{fill:#F89A1F;stroke:#F89A1F;stroke-miterlimit:10;}
+	.TCPPortsx3{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.TCPPortsx4{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.TCPPortsx5{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.TCPPortsx6{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.TCPPortsx7{fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.TCPPortsx8{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.TCPPortsx9{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.TCPPortsx10{fill:#F9BB16;}
+	.TCPPortsx11{fill:#EA4435;}
+	.TCPPortsx12{fill:#2FA952;}
+	.TCPPortsx13{fill:#547DBF;}
+	.TCPPortsx14{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.TCPPortsx15{stroke:#000000;stroke-miterlimit:10;}
+	.TCPPortsx16{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.TCPPortsx17{fill:none;stroke:#020202;stroke-width:5;stroke-miterlimit:10;}
+	.TCPPortsx18{fill:none;stroke:#020202;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.TCPPortsx19{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
+	.TCPPortsx20{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<g>
+		<g>
+			<g>
+				<path class="TCPPortsx16" d="M81.51,121.12h-33.1v-9.66H40.5v-10.43H25.82V59.59c0-4.98,4.05-9.03,9.03-9.03h58.3
+					c4.98,0,9.03,4.05,9.03,9.03v41.45H91.37v10.43h-9.85V121.12z"/>
+			</g>
+			<g>
+				<line class="TCPPortsx16" x1="39.7" y1="60.24" x2="39.7" y2="69.78"/>
+				<line class="TCPPortsx16" x1="46.64" y1="60.24" x2="46.64" y2="69.78"/>
+				<line class="TCPPortsx16" x1="53.59" y1="60.24" x2="53.59" y2="69.78"/>
+				<line class="TCPPortsx16" x1="60.53" y1="60.24" x2="60.53" y2="69.78"/>
+				<line class="TCPPortsx16" x1="67.47" y1="60.24" x2="67.47" y2="69.78"/>
+				<line class="TCPPortsx16" x1="74.41" y1="60.24" x2="74.41" y2="69.78"/>
+				<line class="TCPPortsx16" x1="81.36" y1="60.24" x2="81.36" y2="69.78"/>
+				<line class="TCPPortsx16" x1="88.3" y1="60.24" x2="88.3" y2="69.78"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polyline class="TCPPortsx0" points="40.2,24.38 50.75,24.38 60.63,24.38 98.01,24.38 90.43,31.34 				"/>
+				<line class="TCPPortsx0" x1="91.57" y1="16.3" x2="98.01" y2="24.38"/>
+			</g>
+			<polyline class="TCPPortsx4" points="50.75,24.38 58.6,10.88 66.52,10.88 			"/>
+			<polyline class="TCPPortsx4" points="60.63,24.38 68.45,37.44 78.68,37.44 			"/>
+			<rect x="66.53" y="6.88" class="TCPPortsx4" width="7.54" height="8.39"/>
+			<circle class="TCPPortsx4" cx="82.48" cy="37.44" r="3.6"/>
+			<circle class="TCPPortsx4" cx="35.11" cy="23.82" r="5.12"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,640 @@
+.nz-searchDiv {
+  display: flex !important;
+  align-items: center !important;
+  width: 100% !important;
+  height: 40px;
+  gap: 6px !important;
+  padding-left: 10px;
+
+}
+
+.nz-nav-filter-icon-box .nz-filter-apply-icon .nz-common-icon .MuiButtonBase-root {
+  width: 31px;
+  color: aliceblue;
+  margin-bottom: 5px !important;
+}
+.nz-searchDiv .nz-nav-filter-icon-box .MuiBox-root{
+width: 65px !important;
+}
+.MuiFormControl-root .MuiInputBase-root{
+margin-top: 5px !important;
+}
+.nz-filter-popup-div {
+  width: 100% !important;
+  background: #fffcfc14;
+  height: 100% !important;
+  position: absolute;
+  z-index: 999;
+  background-color: var(--bg-color);
+}
+.nz-common-icon .MuiButtonBase-root{
+  width: 23px !important;
+}
+
+.nz-fc-react-select .nz_fc_rc__menu {
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+  z-index: 999;
+  height: 100%;
+}
+
+.ng-search-overter-div {
+  width: 100%;
+}
+
+.nz-form-title-bar {
+ display: flex !important;
+  position: relative;
+  width: 100%;
+  min-height: 20px !important;
+  justify-content: space-between;
+  align-items: center;
+  padding-left:10px !important
+}
+.nz-form-title-bar span{
+height: 27px !important;
+}
+
+.nz-filter-container .MuiAutocomplete-endAdornment .MuiButtonBase-root {
+  margin-right: 5px;
+}
+
+.nz-filter-popup-div .nz-filter-container {
+  /* height: calc(100vh - 200px); */
+  overflow: hidden;
+  overflow-y: auto;
+  /* z-index: 999 !important; */
+  /* height: 100% !important; */
+}
+
+.nz-filter-popup-div .nz-filter-container::-webkit-scrollbar {
+  overflow: hidden;
+}
+
+.nz-filter-container1 {
+  overflow: hidden;
+}
+
+.nz-filter-container1:hover {
+  overflow: auto;
+}
+
+.nz-filter-container .MuiIconButton-root {
+  padding: 0px;
+  margin-top: 3px;
+}
+
+.nz-filter-popup-div .nz-filter-container:hover::-webkit-scrollbar {
+  overflow: auto;
+}
+
+/* .nz-filter-popup-div .nz-filter-container:hover {
+    height: calc(100vh - 202px);
+    overflow: auto;
+  } */
+
+/* .nz-filter-popup-div .nz-filter-container .rc-tree {
+    position: inherit !important;
+  } */
+
+.nz-filter-popup-div .nz-filter-container .ng-treeview-assest-mgt {
+  max-height: 100%;
+}
+
+.nz-filter-popup-div .nz-filter-container .ng-treeview-assest-mgt .rc-tree-list-holder-inner {
+  height: auto !important;
+}
+
+.nz-filter-popup-div .nz-filter-container .ng-treeview-assest-mgt .rc-tree-list-holder-inner:hover {
+  overflow-y: hidden !important;
+}
+
+.nz-fc-react-select .nz_fc_rc__control {
+  border: 1px solid var(--font-color) !important;
+  background-color: var(--primary) !important;
+  border-radius: 0px !important;
+  min-height: 30px !important;
+  height: 30px !important;
+  -webkit-box-flex-wrap: nowrap;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+
+
+.nz-fc-react-select .nz_fc_rc__control .nz_fc_rc__value-container {
+  padding: 2px 5px !important;
+}
+
+.nz-fc-react-select .nz_fc_rc__control--menu-is-open .nz_fc_rc__dropdown-indicator svg path {
+  transform: rotate(180deg);
+  transform-origin: 50% 50%;
+
+}
+.nz_fc_rc__control--menu-is-open, .nz_fc_rc__control--is-focused {
+  z-index: 99999 !important;
+}
+
+.nz-fc-react-select .nz_fc_rc__indicator,
+.nz-fc-react-select .nz_fc_rc__indicator:hover {
+  width: 30px !important;
+}
+
+.nz-misc-icon-search-keyword svg {
+  width: 10px !important;
+  height: 10px !important;
+
+}
+
+.nz-fc-react-select .nz_fc_rc__control .nz_fc_rc__value-container {
+  padding: 2px 5px !important;
+}
+
+.nz-filter-custom-icon {
+  display: flex !important;
+  padding-left: 4px !important;
+  padding-right: 4px !important;
+  height: 30px !important;
+}
+
+.nz-filter-custom-icon .nz-common-icon {
+  width: 30px !important;
+}
+
+.nz-filter-container .MuiIconButton-root {
+  padding: 0;
+  margin-top: 3px !important;
+}
+
+.nz-feature-icon svg {
+  width: 20px !important;
+  color: #fff !important;
+  height: 20px !important;
+
+}
+
+.nz-filter-open-icon {
+  /* margin-left: 3px; */
+  width: 40px !important;
+  margin-top: 0px;
+  justify-content: center !important;
+}
+
+/* .nz-img-three-dots-rtm {
+  width: 20px !important;
+} */
+
+.nz-searchDiv .MuiInputBase-root {
+  /* height: 50px !important; */
+  padding: 0 !important;
+  font-size: 12px !important;
+  color: var(--font-color);
+}
+
+.nz_fc_rc__placeholder {
+  color: var(--font-color) !important;
+}
+.nz-rt-menu .nz-rt-li-menu .nz-rt-menu-text span {
+  font-size: 8px !important;
+  line-height: 0.5;
+  color: var(--font-color);
+}
+
+.nz-rt-menu .nz-rt-li-menu {
+  display: flex;
+  flex-direction: column;
+  width: 50px;
+}
+.nz-popover-three-dots-menu-div .MuiPaper-root {
+  background-color: var(--font-color) !important;
+margin-left: 42px !important;
+}
+.nz-popover-three-dots-menu-div .MuiPaper-root {
+  max-height: calc(100vh - 10px) !important;
+  overflow-y: hidden;
+  /* top: unset !important; */
+}
+
+.nz-popover-three-dots-menu-div .nz-popover-menu-box {
+  max-height: calc(100vh - 1px) !important;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+
+.nz-misc-icon-search-keyword svg {
+  /* color: var(--font-color) !important; */
+  fill: #fff !important;
+}
+
+.nz-filter-control {
+  display: flex !important;
+  align-items: center;
+  width: 100% !important;
+
+}
+
+.nz-filter-custom-icon .nz-common-icon {
+  width: 30px !important;
+}
+
+.rc-tree .rc-tree-treenode {
+  margin: 0;
+  padding: 0;
+  line-height: 24px;
+  display: flex !important;
+  align-items: center;
+}
+
+.rc-tree-list-holder-inner {
+  overflow: hidden;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  padding-left: 12px !important;
+}
+.nz-nav-filter-icon-box{
+  gap: 4px !important;
+}
+
+/* .rc-tree .rc-tree-treenode span.rc-tree-checkbox{
+  margin: 0 3px !important;
+} */
+.nz-nav-filter-icon-box .MuiBox-root {
+  width: 60px !important;
+  display: flex;
+  justify-content: space-between;
+  background: transparent
+}
+
+.nz-img-three-dots-rtm svg {
+  width: 20px !important;
+}
+
+
+/* .ng-treeview-export-import .rc-tree-treenode span.rc-tree-iconEle {
+  line-height: 0px !important;
+  vertical-align: 0.3em !important;
+} */
+.nz-filter-explorer,
+.nz-filter-site-tree {
+  padding: 5px;
+}
+
+/* .nz-tree-filter-div .rc-tree {
+  width: calc(100% - 10px) !important;
+} */
+.MuiAutocomplete-root {
+  width: 100% !important;
+}
+.MuiAutocomplete-root .Mui-focused{
+border-color: #fff !important;
+border: 1 !important;
+}
+.MuiAutocomplete-root .MuiFormControl-root-MuiTextField-root .MuiOutlinedInput-root .Mui-focused fieldset{
+  border: 1 !important;
+}
+
+.MuiFormControl-root-MuiTextField-root .MuiOutlinedInput-root .Mui-focuse fieldset{
+  border-color:#fff !important ;
+}
+.filter-text{
+  margin: 0 !important;
+}
+.MuiOutlinedInput-root.Mui-focused .MuiInputBase-root .MuiInputBase-input .MuiOutlinedInput-notchedOutline {
+  border-color: #fff !important;
+}
+.MuiAutocomplete-root .Mui-focused .MuiOutlinedInput-notchedOutline {
+  border: 1 !important;
+}
+
+.nz-misc-icon-search-keyword svg {
+  color: #fff;
+}
+MuiAutocomplete-root .MuiOutlinedInput-root.MuiInputBase-sizeSmall .MuiAutocomplete-input{
+  padding:4.5px 4px 2.5px 8px !important;
+}
+
+.nz-filter-open-icon .nz-active-filter-icon .nz-common-IconBtn,
+.nz-search-text-lens-icon .nz-active-filter-icon .nz-common-IconBtn {
+  background-color: #ffff00;
+  color: var(--font-color) !important;
+  border-radius: 30% !important;
+}
+.nz-filter-open-icon .nz-active-filter-icon .nz-common-IconBtn,
+.nz-search-text-lens-icon .nz-active-filter-icon .nz-common-IconBtn .Lensx0{
+  stroke: #000 !important;
+}
+.nz-filter-open-icon .nz-active-filter-icon .nz-common-IconBtn,
+.nz-search-text-lens-icon .nz-active-filter-icon .nz-common-IconBtn .nz-feature-icon svg .Filterx0{
+  stroke: #000 !important;
+  color: #000 !important;
+}
+.nz-search-setting-with-filter {
+  display: flex;
+  width: 100%;
+  /* padding: 2px 0px; */
+  position: initial;
+  align-items: center;
+  height: 40px;
+}
+
+.nz-search-setting-with-filter .nz-sk-search-select {
+  display: flex !important;
+  align-items: center !important;
+  height: 40px !important;
+  margin-bottom: 7px !important;
+}
+
+/* .MuiButtonBase-root{
+  width: 40px !important;
+    height: 40px !important;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding-left: 2px !important;
+} */
+
+.nz-list-nav-category .nz-tree-filter-div {
+  padding-top: 5px !important;
+}
+
+/* .search-tree .rc-tree-treenode{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+  } */
+
+/* .nz-feature-icon svg{
+      height: 0px !important;
+    } */
+    .nz-feature-icon{
+      width: 35px !important;
+    }
+
+.nz-filter-label p {
+  margin: 0 !important;
+}
+
+.nz-list-nav-category {
+  margin: 0 !important;
+}
+
+.nz-filter-sub-header {
+  margin: 0 !important;
+  display: flex !important; 
+
+}
+
+.nz-misc-icon svg {
+  width: 24px !important;
+  height: 30px !important;
+}
+
+.nz-fc-react-select .nz_fc_rc__control--is-focused {
+  flex-direction: row !important;
+  max-width: 100% !important;
+}
+
+.nz-fc-react-select .nz_fc_rc__control .nz_fc_rc__value-container {
+  padding: 2px 5px !important;
+}
+
+.nz-fc-react-select .nz-select2-option:active,
+.nz-fc-react-select .nz-select2-option:hover {
+  background-color: var(--secondary) !important;
+  filter: brightness(100%);
+}
+
+.nz-fc-react-select .nz-select2-option {
+  height: 30px;
+  background-color: var(--primary);
+  padding: 5px 10px;
+  display: flex;
+  align-items: center;
+  color: var(--textsecondary) !important;
+}
+
+.nz-fc-react-select .nz-select2-option.nz_fc_rc__option--is-selected {
+  filter: brightness(90%);
+  color: var(--textsecondary) !important;
+}
+
+.nz-fc-react-select .nz_fc_rc__control--menu-is-open .nz_fc_rc__dropdown-indicator svg path {
+  transform: rotate(180deg);
+  transform-origin: 50% 50%;
+}
+
+.nz-fc-react-select .nz_fc_rc__menu-list {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  border: 1px solid;
+  border-color: var(--border) !important;
+  max-height: 50vh !important;
+}
+
+.nz-fc-react-select .nz_fc_rc__indicator,
+.nz-fc-react-select .nz_fc_rc__indicator:hover {
+  width: 30px;
+  color: var(--textsecondary);
+}
+
+.nz-fc-react-select .nz_fc_rc__single-value {
+  color: var(--textsecondary);
+  background-color: var(--primary);
+}
+
+/* .nz-fc-react-select .nz_fc_rc__menu-notice.nz_fc_rc__menu-notice--no-options { */
+  /* display: none !important; */
+/* } */
+
+.nz-fc-react-select .nz_fc_rc__menu {
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+  z-index: 999 !important;
+  height: 100vh;
+}
+
+.nz-fc-react-select {
+  width: 100%;
+}
+
+.nz-fc-react-select .nz_fc_rc__placeholder {
+  display: flex;
+  width: 120px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.Kebabx0{
+  stroke: #fff !important;
+}
+.Filterx0{
+  stroke: #fff !important;
+}
+.Lensx0{
+  stroke: #fff !important;
+}
+/* .nz_fc_rc__menu_portal{
+  display: flex !important;
+} */
+
+.nz_fc_rc--is-disabled .nz_fc_rc__single-value--is-disabled,
+.nz_fc_rc--is-disabled .nz-misc-icon-search-keyword svg g,
+.ql-disabled .ql-editor p,
+.nz-disabled-file-control,
+.nz-disabled-file-control div,
+.nz-disabled-text-listview span,
+.form-control-labeled .form-control-labeled .nz-diabled-numericInput {
+  color: gray !important;
+}
+
+.nz-fc-react-select .nz_fc_rc__single-value {
+  color: var(--font-color);
+  /* background-color: var(); */
+}
+.nz-fc-react-select .nz_fc_rc__control--is-focused {
+  flex-direction: row !important;
+  max-width: 100% !important;
+}
+
+.nz_fc_rc__menu {
+  margin-bottom: 0px !important;
+  margin-top: 0px !important;
+}
+
+.nz_fc_rc__option {
+  color: var(--textprimary) !important;
+}
+
+.nz_fc_rc__menu .nz_fc_rc__option {
+  height: 30px;
+  display: flex;
+  align-items: center;
+  padding-left: 7px;
+}
+
+.nz_fc_rc__menu .nz_fc_rc__menu-list {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.nz-fc-react-select .nz_fc_rc__menu {
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+  z-index: 999;
+  height: 100%;
+}
+.nz-fc-react-select .nz_fc_rc__menu-list {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  border: 1px solid;
+  border-color: var(--border) !important;
+  max-height: 50vh !important;
+}
+
+.nz-fc-react-select .nz_fc_rc__indicator,
+.nz-fc-react-select .nz_fc_rc__indicator:hover {
+  width: 30px;
+  color: var(--textsecondary);
+}
+
+.nz-fc-react-select .nz_fc_rc__single-value {
+  color: var(--textsecondary);
+  background-color: var(--primary);
+}
+
+.nz-fc-react-select .nz_fc_rc__menu-notice.nz_fc_rc__menu-notice--no-options {
+  display: none !important;
+}
+.nz-fc-react-select .nz_fc_rc__control--is-focused {
+  flex-direction: row !important;
+  max-width: 100% !important;
+}
+
+.nz-fc-react-select .nz_fc_rc__menu-portal {
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+  z-index: 9999 !important;
+  height: 100% !important;
+
+}
+
+
+.nz_fc_rc__menu-portal{
+
+  z-index: 99999 !important;
+  /* height: 100% !important; */
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+
+}
+
+
+.nz-nav-li-button {
+  height: 40px;
+  padding-left: 0 !important;
+}
+
+.nz-rt-menu .nz-nav-li-button {
+  height: 30px;
+  padding-left: 0px !important;
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+
+.nz-rt-menu .nz-nav-li-button .nz-rt-menu-checkbox {
+  padding: 0px !important;
+  padding-right: 10px !important;
+  height: 30px;
+}
+.nz-rt-menu.nz-property-tab .nz-nav-li-button {
+  height: 40px !important;
+  padding-right: 15px !important;
+}
+.nz-popover-menu-box .MuiButtonBase-root .nz-nav-li-icon {
+  width: 40px !important;
+}
+
+.nz-nav-close .nz-nav-li-icon {
+  justify-content: center;
+  width: 75px !important;
+  min-width: auto !important;
+}
+
+.nz-nav-open .nz-nav-li-icon {
+  width: 40px !important;
+}
+#nz_action_bar .nz-action-li-btn .nz-nav-li-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 40px !important;
+  min-width: auto !important;
+}
+
+.nz-nav-li-icon {
+  justify-content: center;
+  width: 50px !important;
+  min-width: auto !important;
+}
+
+.MuiAutocomplete-root{
+  color: #fff;
+}
+.MuiAutocomplete-root .MuiFormControl-root-MuiTextField-root .MuiOutlinedInput-root.Mui-focused fieldset{ 
+  border-color: #fff !important;
+border: 1 !important;
+}
+
+.nz-misc-icon .injected-svg path{ 
+  fill: #fff !important;
+}
+.MuiInputBase-input{
+padding: 4px !important;
+}
+
+.nz-feature-qa-container{
+padding-right: 5px !important;
+}

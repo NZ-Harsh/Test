@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.NetworkTracex0{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.NetworkTracex1{fill:none;stroke:#010101;stroke-width:3;stroke-miterlimit:10;}
+	.NetworkTracex2{fill:#010101;stroke:#010101;stroke-miterlimit:10;}
+	.NetworkTracex3{fill:#010101;}
+	.NetworkTracex4{fill:#010101;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.NetworkTracex5{fill:none;stroke:#010101;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g>
+	<circle class="NetworkTracex0" cx="64" cy="64.24" r="8.12"/>
+	<circle class="NetworkTracex0" cx="64" cy="12.12" r="8.12"/>
+	<circle class="NetworkTracex0" cx="64" cy="115.88" r="8.12"/>
+	<circle class="NetworkTracex0" cx="110.39" cy="91.02" r="8.12"/>
+	<circle class="NetworkTracex0" cx="17.61" cy="91.02" r="8.12"/>
+	<circle class="NetworkTracex0" cx="110.39" cy="37.46" r="8.12"/>
+	<circle class="NetworkTracex0" cx="17.61" cy="37.46" r="8.12"/>
+	<line class="NetworkTracex0" x1="22.05" y1="84.22" x2="59.34" y2="18.76"/>
+	<line class="NetworkTracex0" x1="105.72" y1="84.22" x2="68.44" y2="18.76"/>
+	<line class="NetworkTracex0" x1="25.73" y1="91.02" x2="102.27" y2="91.02"/>
+	<polyline class="NetworkTracex0" points="64,72.35 64,91.02 64,107.77 	"/>
+	<line class="NetworkTracex0" x1="64" y1="56.12" x2="64" y2="20.23"/>
+	<line class="NetworkTracex0" x1="103.28" y1="87.09" x2="71.08" y2="68.19"/>
+	<polyline class="NetworkTracex0" points="57.09,59.99 41.18,50.65 24.87,41.08 	"/>
+	<line class="NetworkTracex0" x1="56.96" y1="68.27" x2="24.87" y2="87.09"/>
+	<polyline class="NetworkTracex0" points="103.28,41.08 103.16,41.16 86.7,50.82 70.95,60.05 	"/>
+</g>
+</svg>

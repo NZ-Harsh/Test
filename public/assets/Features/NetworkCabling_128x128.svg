@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.NetworkCablingx0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.NetworkCablingx1{stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.NetworkCablingx2{fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.NetworkCablingx3{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.NetworkCablingx4{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.NetworkCablingx5{fill:none;stroke:#FF0000;stroke-width:5;stroke-miterlimit:10;}
+	.NetworkCablingx6{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.NetworkCablingx7{stroke:#000000;stroke-miterlimit:10;}
+	.NetworkCablingx8{fill:#FF0000;}
+</style>
+<g>
+	<g>
+		
+			<rect x="11.41" y="55.82" transform="matrix(4.322859e-11 -1 1 4.322859e-11 -47.7275 80.2725)" class="NetworkCablingx0" width="9.72" height="16.36"/>
+		
+			<rect x="1.95" y="61.95" transform="matrix(1.222761e-11 -1 1 1.222761e-11 -57.9548 70.0452)" class="NetworkCablingx0" width="8.18" height="4.09"/>
+	</g>
+	<g>
+		
+			<rect x="106.87" y="55.82" transform="matrix(-1.326798e-10 1 -1 -1.326798e-10 175.7275 -47.7275)" class="NetworkCablingx0" width="9.72" height="16.36"/>
+		
+			<rect x="117.86" y="61.95" transform="matrix(-1.027118e-10 1 -1 -1.027118e-10 185.9548 -57.9548)" class="NetworkCablingx0" width="8.18" height="4.09"/>
+	</g>
+	<line class="NetworkCablingx0" x1="24.45" y1="64" x2="103.55" y2="64"/>
+</g>
+</svg>

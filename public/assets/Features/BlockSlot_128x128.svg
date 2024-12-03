@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.BlockSlotx0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<g>
+	<polyline class="BlockSlotx0" points="80.2,44.8 118.9,44.8 118.9,58.1 88.4,58.1 	"/>
+	<polyline class="BlockSlotx0" points="39.6,58.1 9.1,58.1 9.1,44.8 47.8,44.8 	"/>
+	<polyline class="BlockSlotx0" points="39.6,69.9 9.1,69.9 9.1,83.2 47.8,83.2 	"/>
+	<polyline class="BlockSlotx0" points="88.4,69.9 118.9,69.9 118.9,83.2 80.2,83.2 	"/>
+</g>
+<g>
+	<circle class="BlockSlotx0" cx="64" cy="64" r="25.1"/>
+	<line class="BlockSlotx0" x1="82.2" y1="45.8" x2="45.8" y2="82.2"/>
+</g>
+</svg>

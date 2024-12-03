@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.Hardwarex0{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.Hardwarex1{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.Hardwarex2{fill:#F89A1F;stroke:#F89A1F;stroke-miterlimit:10;}
+	.Hardwarex3{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.Hardwarex4{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.Hardwarex5{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.Hardwarex6{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.Hardwarex7{fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.Hardwarex8{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.Hardwarex9{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.Hardwarex10{fill:#F9BB16;}
+	.Hardwarex11{fill:#EA4435;}
+	.Hardwarex12{fill:#2FA952;}
+	.Hardwarex13{fill:#547DBF;}
+	.Hardwarex14{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.Hardwarex15{stroke:#000000;stroke-miterlimit:10;}
+	.Hardwarex16{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.Hardwarex17{fill:none;stroke:#020202;stroke-width:5;stroke-miterlimit:10;}
+	.Hardwarex18{fill:none;stroke:#020202;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.Hardwarex19{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
+	.Hardwarex20{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<g>
+		<path class="Hardwarex4" d="M73.64,86.9H12.77c-3.01,0-5.46-2.44-5.46-5.46V37.81c0-3.01,2.44-5.46,5.46-5.46h60.87"/>
+		<polygon class="Hardwarex4" points="68.23,106.55 34.93,106.55 42.07,86.84 61.08,86.84 		"/>
+		<path class="Hardwarex4" d="M73.64,74.39H24.69c-3.01,0-5.46-2.44-5.46-5.46V50.32c0-3.01,2.44-5.46,5.46-5.46h48.96"/>
+		<path class="Hardwarex4" d="M111.81,105.95H92.2c-4.9,0-8.88-3.97-8.88-8.88V30.33c0-4.9,3.97-8.88,8.88-8.88h19.61
+			c4.9,0,8.88,3.97,8.88,8.88v66.75C120.68,101.98,116.71,105.95,111.81,105.95z"/>
+		<line class="Hardwarex0" x1="90.91" y1="37.06" x2="113.1" y2="37.06"/>
+		<line class="Hardwarex0" x1="90.91" y1="47.3" x2="113.1" y2="47.3"/>
+		<path class="Hardwarex4" d="M99.14,75.74h-2.36c-1.63,0-2.95-1.32-2.95-2.95v-2.36c0-1.63,1.32-2.95,2.95-2.95h2.36
+			c1.63,0,2.95,1.32,2.95,2.95v2.36C102.09,74.42,100.77,75.74,99.14,75.74z"/>
+	</g>
+</g>
+</svg>

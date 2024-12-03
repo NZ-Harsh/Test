@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.DataSetx0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.DataSetx1{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.DataSetx2{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:21.3333;}
+	.DataSetx3{fill:#FFFFFF;fill-opacity:0;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.DataSetx4{fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+	.DataSetx5{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.DataSetx6{fill:none;stroke:#010101;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<g>
+	<ellipse class="DataSetx0" cx="64" cy="29.6" rx="46" ry="18.9"/>
+	<path class="DataSetx0" d="M18,52.5c0,4.3,3.5,8.3,9.4,11.5c8.4,4.5,21.7,7.5,36.6,7.5s28.2-2.9,36.6-7.5c5.9-3.2,9.4-7.2,9.4-11.5"/>
+	<path class="DataSetx0" d="M18,75.5c0,4.3,3.5,8.3,9.4,11.5c8.4,4.5,21.7,7.5,36.6,7.5s28.2-2.9,36.6-7.5c5.9-3.2,9.4-7.2,9.4-11.5"/>
+	<path class="DataSetx0" d="M18,98.4c0,10.5,20.6,18.9,46,18.9s46-8.5,46-18.9"/>
+	<line class="DataSetx0" x1="18" y1="29.6" x2="18" y2="98.4"/>
+	<line class="DataSetx0" x1="110" y1="29.6" x2="110" y2="100.6"/>
+</g>
+</svg>

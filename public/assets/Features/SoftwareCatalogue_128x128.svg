@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.SoftwareCataloguex0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.SoftwareCataloguex1{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.SoftwareCataloguex2{fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:21.3333;}
+	.SoftwareCataloguex3{fill:#FFFFFF;fill-opacity:0;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.SoftwareCataloguex4{fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+	.SoftwareCataloguex5{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+	.SoftwareCataloguex6{fill:none;stroke:#010101;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="SoftwareCataloguex1" d="M19.1,19.5v-5c0-2.4,1.9-4.4,4.2-4.4H47h70.5c2.3,0,4.2,2,4.2,4.4v99c0,2.4-1.9,4.4-4.2,4.4H47H23.4
+		c-2.3,0-4.2-2-4.2-4.4v-5"/>
+	<line class="SoftwareCataloguex1" x1="19.1" y1="81.8" x2="19.1" y2="46.2"/>
+	<rect x="70.4" y="33" class="SoftwareCataloguex1" width="42.2" height="16"/>
+	<line class="SoftwareCataloguex1" x1="73.3" y1="64" x2="112.6" y2="64"/>
+	<line class="SoftwareCataloguex1" x1="73.3" y1="77.6" x2="112.6" y2="77.6"/>
+	<line class="SoftwareCataloguex1" x1="73.3" y1="90.3" x2="112.6" y2="90.3"/>
+	<path class="SoftwareCataloguex1" d="M29.9,38.4H11.7c-3,0-5.4-2.4-5.4-5.4v-0.6c0-3,2.4-5.4,5.4-5.4h18.3c3,0,5.4,2.4,5.4,5.4V33
+		C35.3,36,32.9,38.4,29.9,38.4z"/>
+	<path class="SoftwareCataloguex1" d="M29.9,100.8H11.7c-3,0-5.4-2.4-5.4-5.4v-0.6c0-3,2.4-5.4,5.4-5.4h18.3c3,0,5.4,2.4,5.4,5.4v0.6
+		C35.3,98.4,32.9,100.8,29.9,100.8z"/>
+	<line class="SoftwareCataloguex1" x1="47" y1="10.1" x2="47" y2="117.9"/>
+</g>
+</svg>

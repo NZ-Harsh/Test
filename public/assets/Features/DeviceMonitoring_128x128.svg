@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.DeviceMonitoringx0{fill:none;stroke:#010101;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.DeviceMonitoringx1{fill:none;stroke:#010101;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<path class="DeviceMonitoringx0" d="M114.1,8.1H83.4H82H46h-1.3H13.9C8.4,8.1,4,12.6,4,18v39.4v0.2v26.2c0,5.4,4.4,9.9,9.9,9.9H64l0,0h50.1
+			c5.4,0,9.9-4.4,9.9-9.9V57.6v-0.2V18C124,12.6,119.6,8.1,114.1,8.1z"/>
+		<line class="DeviceMonitoringx0" x1="64" y1="119.9" x2="64" y2="93.7"/>
+		<line class="DeviceMonitoringx0" x1="25.4" y1="119.9" x2="102.6" y2="119.9"/>
+	</g>
+	<rect x="105.9" y="40.2" class="DeviceMonitoringx1" width="8.3" height="36.8"/>
+	<rect x="88" y="50.9" class="DeviceMonitoringx1" width="8.3" height="26.1"/>
+	<rect x="70" y="64" class="DeviceMonitoringx1" width="8.3" height="13"/>
+	<rect x="80.3" y="23.5" class="DeviceMonitoringx1" width="33.9" height="9.3"/>
+	<line class="DeviceMonitoringx0" x1="13.8" y1="67.1" x2="31.1" y2="67.1"/>
+	<line class="DeviceMonitoringx0" x1="13.8" y1="77" x2="45" y2="77"/>
+	<circle class="DeviceMonitoringx1" cx="21.1" cy="51.1" r="5.9"/>
+	<circle class="DeviceMonitoringx1" cx="35.7" cy="36.5" r="5.9"/>
+	<circle class="DeviceMonitoringx1" cx="47.6" cy="48.4" r="5.9"/>
+	<circle class="DeviceMonitoringx1" cx="66.7" cy="28.3" r="5.9"/>
+	<line class="DeviceMonitoringx1" x1="23.9" y1="47.3" x2="31.1" y2="40.2"/>
+	<line class="DeviceMonitoringx1" x1="40.3" y1="40.2" x2="44" y2="43.7"/>
+	<line class="DeviceMonitoringx1" x1="51.2" y1="43.7" x2="63" y2="32.8"/>
+</g>
+</svg>

@@ -1,0 +1,10 @@
+{
+    "logoicon": "https://storage.googleapis.com/nzpublic/nzgraphics/stencilsforoffice/icons/nze/nze.png",
+    "logourl": "https://www.NetZoom.Com",
+    "logotooltip": "NetZoom inc.",
+    "logoalt": "NetZoom Logo",
+    "colortheme": "#1F85DE,#222222,#491313,#892C0F,#10431d,#102857",
+    "favicon": "https://storage.googleapis.com/nzpublic/nzgraphics/stencilsforoffice/icons/nze/favicon16x16.png",
+    "tagline":"./stencilsforoffice/icons/nze/tagline.html",
+    "unsupported":"./stencilsforoffice/icons/nze/unsupported.html"
+}

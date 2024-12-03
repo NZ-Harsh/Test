@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.Sensorx0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.Sensorx1{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.Sensorx2{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.Sensorx3{stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.Sensorx4{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.Sensorx5{stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.Sensorx6{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="Sensorx0" d="M108.9,23.7 M116.3,44.4c-7-9.1-16.2-16.3-26.9-20.8c-7.9-3.3-16.6-5.2-25.7-5.2c-8.8,0-17.1,1.7-24.8,4.8
+		c-10.7,4.3-20.1,11.4-27.2,20.4"/>
+	<path class="Sensorx0" d="M99,59.5c-7.9-11-20.8-18.2-35.4-18.2c-14.1,0-26.7,6.8-34.6,17.2"/>
+	<path class="Sensorx0" d="M81.6,74.8c-3.5-6.3-10.2-10.6-17.9-10.6c-7.2,0-13.5,3.7-17.2,9.4"/>
+	<circle class="Sensorx5" cx="64" cy="89.5" r="8.9"/>
+	<line class="Sensorx0" x1="4" y1="112.6" x2="124" y2="112.6"/>
+</g>
+</svg>
